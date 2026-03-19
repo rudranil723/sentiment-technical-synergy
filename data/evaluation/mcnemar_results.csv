@@ -1,0 +1,10 @@
+Ticker,Model,ACC_TA_only,ACC_Hybrid,ACC_Delta,b_TA_right_Hy_wrong,c_TA_wrong_Hy_right,McNemar_stat,p_value,Significant
+AAPL,Logistic Regression,0.5161,0.5323,0.0161,12,15,0.1481,0.7003,False
+AAPL,Random Forest,0.4946,0.4355,-0.0591,34,23,1.7544,0.1853,False
+AAPL,XGBoost,0.5699,0.4892,-0.0806,30,15,4.3556,0.0369,True
+TSLA,Logistic Regression,0.457,0.4409,-0.0161,5,2,0.5714,0.4497,False
+TSLA,Random Forest,0.4086,0.3871,-0.0215,5,1,1.5,0.2207,False
+TSLA,XGBoost,0.414,0.3817,-0.0323,9,3,2.0833,0.1489,False
+MSFT,Logistic Regression,0.4785,0.4946,0.0161,6,9,0.2667,0.6056,False
+MSFT,Random Forest,0.5,0.5269,0.0269,12,17,0.5517,0.4576,False
+MSFT,XGBoost,0.4946,0.4731,-0.0215,10,6,0.5625,0.4533,False

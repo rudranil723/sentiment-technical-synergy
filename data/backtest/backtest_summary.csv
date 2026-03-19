@@ -1,0 +1,4 @@
+Ticker,Strategy_Return_%,BH_Return_%,Outperformance_%,Strategy_Sharpe,BH_Sharpe,Strategy_MaxDD_%,BH_MaxDD_%,Win_Rate_%,N_Trades,Final_Value_$,Initial_Capital_$
+AAPL,6.04,77.64,-71.6,0.415,1.49,-12.56,-31.43,0.0,3,10604.13,10000
+TSLA,22.07,629.08,-607.01,0.827,2.717,-15.88,-60.63,100.0,3,12207.26,10000
+MSFT,16.02,40.82,-24.8,1.22,1.014,-9.21,-28.04,50.0,3,11602.19,10000

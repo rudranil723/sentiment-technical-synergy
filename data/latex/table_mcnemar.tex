@@ -1,0 +1,20 @@
+\begin{table}[h]
+\centering
+\caption{McNemar Statistical Significance Test Results}
+\label{tab:mcnemar}
+\begin{tabular}{lrrrrrr}
+\hline
+Ticker & Model & b_TA_right_Hy_wrong & c_TA_wrong_Hy_right & McNemar_stat & p_value & Significant \\
+\hline
+AAPL & Logistic Regression & 12 & 15 & 0.148 & 0.700 & False \\
+AAPL & Random Forest & 34 & 23 & 1.754 & 0.185 & False \\
+AAPL & XGBoost & 30 & 15 & 4.356 & 0.037 & True \\
+TSLA & Logistic Regression & 5 & 2 & 0.571 & 0.450 & False \\
+TSLA & Random Forest & 5 & 1 & 1.500 & 0.221 & False \\
+TSLA & XGBoost & 9 & 3 & 2.083 & 0.149 & False \\
+MSFT & Logistic Regression & 6 & 9 & 0.267 & 0.606 & False \\
+MSFT & Random Forest & 12 & 17 & 0.552 & 0.458 & False \\
+MSFT & XGBoost & 10 & 6 & 0.562 & 0.453 & False \\
+\hline
+\end{tabular}
+\end{table}
