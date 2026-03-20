@@ -1,335 +1,307 @@
 date,headline,source,date_day,trading_date
 2020-01-03 00:00:00,Microsoft Partners With Luxoft on Connected Vehicle Platform,massive_raw_partner_headlines,2020-01-03,2020-01-03
-2020-01-03 00:00:00,Zayo (ZAYO) Hits 52-Week High on Healthy Growth Dynamics,massive_raw_partner_headlines,2020-01-03,2020-01-03
 2020-01-03 00:00:00,"Who Joins Microsoft, Alibaba, Facebook On List Of New Buys By The Best Mutual Funds?",massive_raw_partner_headlines,2020-01-03,2020-01-03
+2020-01-03 00:00:00,Zayo (ZAYO) Hits 52-Week High on Healthy Growth Dynamics,massive_raw_partner_headlines,2020-01-03,2020-01-03
 2020-01-06 00:00:00,General Dynamics' NASSCO Wins $98M Deal to Support USS LSD 49,massive_raw_partner_headlines,2020-01-06,2020-01-06
 2020-01-07 00:00:00,AngioDynamics (ANGO) Beats Q2 Earnings Estimates,massive_raw_partner_headlines,2020-01-07,2020-01-07
 2020-01-08 14:00:00,"Biocept, Inc. Awarded United States Patent For Use Of Antibodies In Combination With Any Solid Surface To Detect Any Target Cell Of Interest",kaggle_analyst_analyst_ratings_processed.csv,2020-01-08,2020-01-08
 2020-01-08 15:12:00,Biocept shares are trading higher after the company was awarded a U.S. patent for use of antibodies in combination with any solid surface to detect any target cell of interest.,kaggle_analyst_analyst_ratings_processed.csv,2020-01-08,2020-01-08
-2020-01-09 00:00:00,Citigroup Teams With YieldStreet to Offer Credit Investments,massive_raw_partner_headlines,2020-01-09,2020-01-09
 2020-01-09 00:00:00,Envestnet (ENV) Teams Up With Dynasty Financial Partners,massive_raw_partner_headlines,2020-01-09,2020-01-09
+2020-01-09 00:00:00,Citigroup Teams With YieldStreet to Offer Credit Investments,massive_raw_partner_headlines,2020-01-09,2020-01-09
 2020-01-10 00:00:00,Citigroup Teams Up With YieldStreet to Offer Credit Investments (Revised),massive_raw_partner_headlines,2020-01-10,2020-01-10
-2020-01-13 17:18:00,"UPDATE: Morgan Stanley Upgrades Veeva Systems To Overweight, Raises Target To $175 Notes 'We think investor focus on competitive dynamics in Commercial Cloud is overshadowing the much bigger and rapidly growing opportunity in Vault'",kaggle_analyst_analyst_ratings_processed.csv,2020-01-13,2020-01-13
-2020-01-13 00:00:00,"CrowdStrike, FedEx, Microsoft, Amazon and Alphabet highlighted as Zacks Bull and Bear of the Day",massive_raw_partner_headlines,2020-01-13,2020-01-13
 2020-01-13 00:00:00,"Tech Daily: MSFT, INTC, AMZN, FB, AAPL, GOOGL",massive_raw_partner_headlines,2020-01-13,2020-01-13
-2020-01-14 00:00:00,"Amazon.com Inc  will ask a judge to temporarily block Microsoft Corp  from working on a $10 billion cloud contract from the Pentagon, a court filing showed on Monday.",kaggle_financial_news,2020-01-14,2020-01-14
-2020-01-14 00:00:00,Trade Concerns Resurface,massive_raw_partner_headlines,2020-01-14,2020-01-14
-2020-01-14 06:58:00,"Microsoft CEO Criticizes India's Exclusionary Citizenship Law, Compares To US Experience",kaggle_analyst_analyst_ratings_processed.csv,2020-01-14,2020-01-14
+2020-01-13 00:00:00,"CrowdStrike, FedEx, Microsoft, Amazon and Alphabet highlighted as Zacks Bull and Bear of the Day",massive_raw_partner_headlines,2020-01-13,2020-01-13
+2020-01-13 17:18:00,"UPDATE: Morgan Stanley Upgrades Veeva Systems To Overweight, Raises Target To $175 Notes 'We think investor focus on competitive dynamics in Commercial Cloud is overshadowing the much bigger and rapidly growing opportunity in Vault'",kaggle_analyst_analyst_ratings_processed.csv,2020-01-13,2020-01-13
+2020-01-13 18:09:00,"""Mad Money"" host Jim Cramer said he worries that Alphabet, alongside Microsoft, Apple and Facebook, may not hold its recent gains when the company reports earnings.",kaggle_financial_news,2020-01-13,2020-01-13
 2020-01-14 16:14:00,"Sidoti & Co. Downgrades Douglas Dynamics to Neutral, Announces $61 Price Target",kaggle_analyst_analyst_ratings_processed.csv,2020-01-14,2020-01-14
+2020-01-14 06:58:00,"Microsoft CEO Criticizes India's Exclusionary Citizenship Law, Compares To US Experience",kaggle_analyst_analyst_ratings_processed.csv,2020-01-14,2020-01-14
+2020-01-14 00:00:00,Trade Concerns Resurface,massive_raw_partner_headlines,2020-01-14,2020-01-14
 2020-01-15 00:00:00,"The Zacks Analyst Blog Highlights: Microsoft, Intel, Lenovo, HP and Dell Technologies",massive_raw_partner_headlines,2020-01-15,2020-01-15
 2020-01-15 00:00:00,Analysts Estimate Steel Dynamics (STLD) to Report a Decline in Earnings: What to Look Out for,massive_raw_partner_headlines,2020-01-15,2020-01-15
-2020-01-16 15:36:00,Ocean Power Shares Spike Over $1 Level As Traders Circulate LinkedIn Post From Co. From ~30 Mins Ago,kaggle_analyst_analyst_ratings_processed.csv,2020-01-16,2020-01-16
-2020-01-16 15:35:00,Ocean Power Shares Spike ~20%; Traders Circulating LinkedIn Post From Co. 'PB3 PowerBuoy® demonstrates another milestone: Our Adriatic Sea installation recently marked a year of maintenance-free continuous operation',kaggle_analyst_analyst_ratings_processed.csv,2020-01-16,2020-01-16
-2020-01-16 00:00:00,"Dow Jones Futures: Stock Market Rally Keeps Testing Limits; Google Joins Apple, Microsoft In $1 Trillion Club",massive_raw_partner_headlines,2020-01-16,2020-01-16
 2020-01-16 00:00:00,"Fall Protection Market boosting the growth Worldwide Industry dynamics and trends, efficiencies ...",massive_raw_partner_headlines,2020-01-16,2020-01-16
+2020-01-16 00:00:00,"Dow Jones Futures: Stock Market Rally Keeps Testing Limits; Google Joins Apple, Microsoft In $1 Trillion Club",massive_raw_partner_headlines,2020-01-16,2020-01-16
+2020-01-16 15:35:00,Ocean Power Shares Spike ~20%; Traders Circulating LinkedIn Post From Co. 'PB3 PowerBuoy® demonstrates another milestone: Our Adriatic Sea installation recently marked a year of maintenance-free continuous operation',kaggle_analyst_analyst_ratings_processed.csv,2020-01-16,2020-01-16
+2020-01-16 15:36:00,Ocean Power Shares Spike Over $1 Level As Traders Circulate LinkedIn Post From Co. From ~30 Mins Ago,kaggle_analyst_analyst_ratings_processed.csv,2020-01-16,2020-01-16
+2020-01-16 18:46:00,"""Profitable is the key word, but problems is the other key word for people and planet,"" Microsoft CEO Satya Nadella told ""Mad Money"" host Jim Cramer.",kaggle_financial_news,2020-01-16,2020-01-16
+2020-01-16 19:21:00,"""Whether or not Microsoft can save the environment, what matters is that they're making the attempt and the stock wasn't punished for it at all,"" the ""Mad Money"" host said.",kaggle_financial_news,2020-01-16,2020-01-16
 2020-01-17 00:00:00,"Commerzbank Aktiengesellschaft Buys Microsoft Corp, The Walt Disney Co, Stryker Corp, Sells ...",massive_raw_partner_headlines,2020-01-17,2020-01-17
 2020-01-17 00:00:00,"Top STock Analyst Reports for Microsoft, American Express & Others",massive_raw_partner_headlines,2020-01-17,2020-01-17
 2020-01-17 00:00:00,"Google Parent Company Alphabet Joins The Trillion Dollar Club With Apple, Microsoft, Aramco",massive_raw_partner_headlines,2020-01-17,2020-01-17
 2020-01-17 05:34:00,"Google Parent Company Alphabet Joins The $1 Trillion Club With Apple, Microsoft, Aramco",kaggle_analyst_analyst_ratings_processed.csv,2020-01-17,2020-01-17
 2020-01-17 09:20:00,"Microsoft Commits To Go 'Carbon Negative' By 2030, Creates $1B Fund For Climate Innovation",kaggle_analyst_analyst_ratings_processed.csv,2020-01-17,2020-01-17
+2020-01-21 19:23:00,CNBC's Jim Cramer broke down why capitalism is becoming more eco-friendly and sat down with the CEOs of Microsoft and GW Pharma.,kaggle_financial_news,2020-01-21,2020-01-21
 2020-01-21 00:00:00,Why Earnings Season Could Be Great for Steel Dynamics (STLD),massive_raw_partner_headlines,2020-01-21,2020-01-21
-2020-01-20 00:00:00,"BT <BT,K>, Danone , Microsoft  and Sony  are among 178 companies with top marks in the latest global ranking of transparency and action on climate change.",kaggle_financial_news,2020-01-20,2020-01-21
 2020-01-20 00:00:00,Conference Call Services Market Forecast —…—…-—…—9 | Key Players – Microsoft ...,massive_raw_partner_headlines,2020-01-20,2020-01-21
-2020-01-18 21:13:00,"Bulls And Bears Of The Week: IBM, Microsoft, Tesla And More",kaggle_analyst_analyst_ratings_processed.csv,2020-01-18,2020-01-21
 2020-01-20 00:00:00,"The Zacks Analyst Blog Highlights: Microsoft, American Express, Fidelity National Information Services, Goldman Sachs and Southern",massive_raw_partner_headlines,2020-01-20,2020-01-21
+2020-01-18 21:13:00,"Bulls And Bears Of The Week: IBM, Microsoft, Tesla And More",kaggle_analyst_analyst_ratings_processed.csv,2020-01-18,2020-01-21
 2020-01-22 00:00:00,Daily Stock Pick: Steel Dynamics,massive_raw_partner_headlines,2020-01-22,2020-01-22
 2020-01-22 23:01:00,"Steel Dynamics Q4 Adj. EPS $0.62 Beats $0.55 Estimate, Sales $2.37B Beat $2.33B Estimate",kaggle_analyst_analyst_ratings_processed.csv,2020-01-22,2020-01-22
 2020-01-23 00:00:00,Steel Dynamics' (STLD) Earnings and Sales Top Estimates in Q4,massive_raw_partner_headlines,2020-01-23,2020-01-23
-2020-01-23 00:00:00,Amazon.com Inc said on Wednesday it filed a motion in court to pause the U.S. Department of Defense and Microsoft Corp from carrying out an up to $10 billion cloud computing deal until a court rules on its protest of the contract award.,kaggle_financial_news,2020-01-23,2020-01-23
 2020-01-23 09:17:00,Amazon Urges Court To Halt Progress On Microsoft's JEDI Contract With The Pentagon,kaggle_analyst_analyst_ratings_processed.csv,2020-01-23,2020-01-23
 2020-01-23 16:14:00,"PreMarket Prep Recap: Coronavirus Concerns Resurface, American Airlines Turbulent",kaggle_analyst_analyst_ratings_processed.csv,2020-01-23,2020-01-23
-2020-01-24 00:00:00,Factors Setting the Tone for Microsoft's (MSFT) Q2 Results,massive_raw_partner_headlines,2020-01-24,2020-01-24
-2020-01-24 00:00:00,"Popular mobile video app TikTok said on Friday it has hired attorney Erich Andersen from Microsoft to serve as the company's global general counsel, reporting to president Alex Zhu.",kaggle_financial_news,2020-01-24,2020-01-24
-2020-01-24 00:00:00,"Relaxing Retirement Coach Buys Vanguard S&P 5…… Value ETF, Microsoft Corp, iShares ...",massive_raw_partner_headlines,2020-01-24,2020-01-24
-2020-01-24 00:00:00,"Milestone Resources Group Ltd Buys Microsoft Corp, Accenture PLC, Zoetis Inc",massive_raw_partner_headlines,2020-01-24,2020-01-24
-2020-01-24 00:00:00,"–…-–5 Associates, Inc. Buys General Dynamics Corp, Electronic Arts Inc, Citrix Systems ...",massive_raw_partner_headlines,2020-01-24,2020-01-24
 2020-01-24 00:00:00,"Traynor Capital Management, Inc. Buys Microsoft Corp, O-I Glass Inc, Lockheed Martin Corp, ...",massive_raw_partner_headlines,2020-01-24,2020-01-24
-2020-01-26 00:00:00,"Investors Can Buy Into Sports Teams, Valuation Lofty, Barron's Says",massive_raw_partner_headlines,2020-01-26,2020-01-27
-2020-01-27 00:00:00,"Apple, Microsoft, Facebook, Amazon and Intel are part of Zacks Earnings Preview",massive_raw_partner_headlines,2020-01-27,2020-01-27
-2020-01-27 00:00:00,Will Aerospace Unit Drive General Dynamics' (GD) Q4 Earnings?,massive_raw_partner_headlines,2020-01-27,2020-01-27
+2020-01-24 00:00:00,"Relaxing Retirement Coach Buys Vanguard S&P 5…… Value ETF, Microsoft Corp, iShares ...",massive_raw_partner_headlines,2020-01-24,2020-01-24
+2020-01-24 00:00:00,Factors Setting the Tone for Microsoft's (MSFT) Q2 Results,massive_raw_partner_headlines,2020-01-24,2020-01-24
+2020-01-24 00:00:00,"–…-–5 Associates, Inc. Buys General Dynamics Corp, Electronic Arts Inc, Citrix Systems ...",massive_raw_partner_headlines,2020-01-24,2020-01-24
+2020-01-24 00:00:00,"Milestone Resources Group Ltd Buys Microsoft Corp, Accenture PLC, Zoetis Inc",massive_raw_partner_headlines,2020-01-24,2020-01-24
 2020-01-27 12:39:00,3 Microsoft-Heavy ETFs To Watch Ahead Of Earnings,kaggle_analyst_analyst_ratings_processed.csv,2020-01-27,2020-01-27
+2020-01-27 00:00:00,"Apple, Microsoft, Facebook, Amazon and Intel are part of Zacks Earnings Preview",massive_raw_partner_headlines,2020-01-27,2020-01-27
 2020-01-27 17:37:00,Microsoft Prepares To Report Earnings Amid Surge In Cloud Services Race,kaggle_analyst_analyst_ratings_processed.csv,2020-01-27,2020-01-27
+2020-01-26 00:00:00,"Investors Can Buy Into Sports Teams, Valuation Lofty, Barron's Says",massive_raw_partner_headlines,2020-01-26,2020-01-27
+2020-01-27 00:00:00,Will Aerospace Unit Drive General Dynamics' (GD) Q4 Earnings?,massive_raw_partner_headlines,2020-01-27,2020-01-27
 2020-01-28 00:00:00,What Lies Ahead for Microsoft ETFs This Earnings Season?,massive_raw_partner_headlines,2020-01-28,2020-01-28
-2020-01-28 00:00:00,"OxyContin maker Purdue Pharma LP is the unnamed company that surfaced in criminal charging documents filed earlier this week in a probe of illegal kickbacks from drugmakers, according to people familiar with the matter.",kaggle_financial_news,2020-01-28,2020-01-28
 2020-01-28 00:00:00,Will Azure & Office 365 Drive Microsoft's (MSFT) Q2 Earnings?,massive_raw_partner_headlines,2020-01-28,2020-01-28
 2020-01-28 00:00:00,"Thinking about trading options or stock in Apple, Ball Corp, D. R. Horton, Microsoft, or Tesla?",massive_raw_partner_headlines,2020-01-28,2020-01-28
 2020-01-28 12:12:00,"The Daily Biotech Pulse: Acceleron's Positive Data Readout, Surface Oncology Gets Nod For Pushing 2 Antibodies Into Clinics",kaggle_analyst_analyst_ratings_processed.csv,2020-01-28,2020-01-28
-2020-01-29 12:01:00,"General Dynamics Q4 EPS $3.51 Beats $3.45 Estimate, Sales $10.77B Beat $10.66B Estimate",kaggle_analyst_analyst_ratings_processed.csv,2020-01-29,2020-01-29
-2020-01-29 00:00:00,"Microsoft Corp  on Wednesday reported quarterly sales and profit that beat Wall Street expectations, driven by the first acceleration of Azure cloud computing revenue growth in eight quarters amid a pitched battle with Amazon.com Inc’s  cloud unit.",kaggle_financial_news,2020-01-29,2020-01-29
 2020-01-29 19:54:00,General Dynamics: Q4 Earnings Insights,kaggle_analyst_analyst_ratings_processed.csv,2020-01-29,2020-01-29
 2020-01-29 13:47:00,"Benzinga Pro's Top 5 Stocks To Watch For Wed., Jan. 29, 2020: AAPL, TSLA, FB, BYND, MSFT",kaggle_analyst_analyst_ratings_processed.csv,2020-01-29,2020-01-29
-2020-01-29 00:00:00,"Twin Capital Management Inc Buys Qualcomm Inc, Morgan Stanley, Teleflex Inc, Sells Microsoft ...",massive_raw_partner_headlines,2020-01-29,2020-01-29
-2020-01-29 00:00:00,"Charles Schwab Trust Co Buys Johnson & Johnson, Microsoft Corp, Schwab Fundamental U.S. ...",massive_raw_partner_headlines,2020-01-29,2020-01-29
+2020-01-29 12:01:00,"General Dynamics Q4 EPS $3.51 Beats $3.45 Estimate, Sales $10.77B Beat $10.66B Estimate",kaggle_analyst_analyst_ratings_processed.csv,2020-01-29,2020-01-29
 2020-01-29 00:00:00,"Dow Jones Futures: Tesla, Facebook, Microsoft, ServiceNow Are Big Movers; These 3 Chip Stocks Flash Buy Signals",massive_raw_partner_headlines,2020-01-29,2020-01-29
 2020-01-29 00:00:00,"Angeles Investment Advisors, LLC Buys Microsoft Corp, iShares Core U.S. ...",massive_raw_partner_headlines,2020-01-29,2020-01-29
-2020-01-29 00:00:00,"Cornerstone Investment Partners, LLC Buys TJX Inc, General Dynamics Corp, Norfolk Southern ...",massive_raw_partner_headlines,2020-01-29,2020-01-29
 2020-01-29 00:00:00,"General Dynamics (GD) Q4 Earnings Top Estimates, Sales Up Y/Y",massive_raw_partner_headlines,2020-01-29,2020-01-29
-2020-01-30 00:00:00,"Dividend ETF Has Strong Growth Element With Apple, Microsoft, Nvidia",massive_raw_partner_headlines,2020-01-30,2020-01-30
-2020-01-30 00:00:00,Microsoft's Azure Returns to Growth: 5 ETFs to Buy,massive_raw_partner_headlines,2020-01-30,2020-01-30
-2020-01-30 00:00:00,"Sonata Capital Group Inc Buys Microsoft Corp, iShares U.S. ...",massive_raw_partner_headlines,2020-01-30,2020-01-30
-2020-01-30 00:00:00,Sprint Teams Up With Rocket Fiber To Expand Connected Infrastructure For Tech-Centric Southeast ...,massive_raw_partner_headlines,2020-01-30,2020-01-30
+2020-01-29 00:00:00,"Twin Capital Management Inc Buys Qualcomm Inc, Morgan Stanley, Teleflex Inc, Sells Microsoft ...",massive_raw_partner_headlines,2020-01-29,2020-01-29
+2020-01-29 00:00:00,"Cornerstone Investment Partners, LLC Buys TJX Inc, General Dynamics Corp, Norfolk Southern ...",massive_raw_partner_headlines,2020-01-29,2020-01-29
+2020-01-29 00:00:00,"Charles Schwab Trust Co Buys Johnson & Johnson, Microsoft Corp, Schwab Fundamental U.S. ...",massive_raw_partner_headlines,2020-01-29,2020-01-29
 2020-01-30 00:00:00,"Thinking about buying stock in Beyond Meat, Miragen Therapeutics, Microsoft, Nio, or Sunrun?",massive_raw_partner_headlines,2020-01-30,2020-01-30
 2020-01-30 00:00:00,"Big Data Services Market to Boom: Key Players IBM, Microsoft, Oracle, Hewlett-Packard",massive_raw_partner_headlines,2020-01-30,2020-01-30
-2020-01-30 00:00:00,"Dow Jones Today, Futures Dive On Fed, Coronavirus Risk; Microsoft, Qorvo, Lam Research Rally",massive_raw_partner_headlines,2020-01-30,2020-01-30
+2020-01-30 00:00:00,"Dividend ETF Has Strong Growth Element With Apple, Microsoft, Nvidia",massive_raw_partner_headlines,2020-01-30,2020-01-30
 2020-01-30 16:20:00,Microsoft Analysts See 20% Upside Following Across-The-Board Q2 Beat,kaggle_analyst_analyst_ratings_processed.csv,2020-01-30,2020-01-30
-2020-01-31 00:00:00,Commercial Aviation Aircraft Windows & Windshields Market (PDF) [Review: ...,massive_raw_partner_headlines,2020-01-31,2020-01-31
+2020-01-30 00:00:00,"Sonata Capital Group Inc Buys Microsoft Corp, iShares U.S. ...",massive_raw_partner_headlines,2020-01-30,2020-01-30
+2020-01-30 00:00:00,"Dow Jones Today, Futures Dive On Fed, Coronavirus Risk; Microsoft, Qorvo, Lam Research Rally",massive_raw_partner_headlines,2020-01-30,2020-01-30
+2020-01-30 00:00:00,Microsoft's Azure Returns to Growth: 5 ETFs to Buy,massive_raw_partner_headlines,2020-01-30,2020-01-30
+2020-01-30 00:00:00,Sprint Teams Up With Rocket Fiber To Expand Connected Infrastructure For Tech-Centric Southeast ...,massive_raw_partner_headlines,2020-01-30,2020-01-30
 2020-01-31 00:00:00,"Windsor Creek Advisors, LLC Buys Invesco Solar ETF, General Dynamics Corp, Freeport-McMoRan ...",massive_raw_partner_headlines,2020-01-31,2020-01-31
+2020-01-31 00:00:00,Commercial Aviation Aircraft Windows & Windshields Market (PDF) [Review: ...,massive_raw_partner_headlines,2020-01-31,2020-01-31
 2020-01-31 16:31:00,Nothing But Blue Skies For Microsoft,kaggle_analyst_analyst_ratings_processed.csv,2020-01-31,2020-01-31
-2020-02-03 17:38:00,"UPDATE: Argus Upgrades General Dynamics To Buy, Announces $175 Target Notes 'We had previously been cautious on the stock due to problems in its Aerospace segment, and particularly in business jet manufacturing, which is transitioning to new products'",kaggle_analyst_analyst_ratings_processed.csv,2020-02-03,2020-02-03
-2020-02-03 13:02:00,"Argus Research Upgrades General Dynamics to Buy, Announces $195 Price Target",kaggle_analyst_analyst_ratings_processed.csv,2020-02-03,2020-02-03
-2020-02-03 19:49:00,"Argus Upgrades General Dynamics on Industry Turn, Price",kaggle_analyst_analyst_ratings_processed.csv,2020-02-03,2020-02-03
-2020-02-03 17:38:00,"UPDATE: Argus On General Dynamics Notes 'However, in the most recent quarter, Aerospace revenue, operating earnings, and bookings all improved, and we think the business has turned the corner'",kaggle_analyst_analyst_ratings_processed.csv,2020-02-03,2020-02-03
-2020-02-03 00:00:00,"Apple, Microsoft, Tesla Drive Big Gains In These Top Stock Plays This Year",massive_raw_partner_headlines,2020-02-03,2020-02-03
-2020-02-03 00:00:00,"Signition LP Buys Bank of Montreal, BCE Inc, Visa Inc, Sells Microsoft Corp, Canadian Pacific ...",massive_raw_partner_headlines,2020-02-03,2020-02-03
-2020-02-03 00:00:00,"MAI Wealth Advisors Buys Microsoft Corp, EPAM Systems Inc, Facebook Inc, Sells Antero Midstream ...",massive_raw_partner_headlines,2020-02-03,2020-02-03
-2020-02-03 00:00:00,"Oracle Corp  said on Monday it had added new cloud computing data centers in five countries and aims to have them in 36 locations by the end of 2020, as it races with Amazon.com  and Microsoft Corp  for market share.",kaggle_financial_news,2020-02-03,2020-02-03
-2020-02-03 00:00:00,"The Zacks Analyst Blog Highlights: Microsoft, Facebook, Novartis, Tesla and Raytheon",massive_raw_partner_headlines,2020-02-03,2020-02-03
 2020-02-03 00:00:00,"Dow Jones Up, But Lags This Key Sector; Time To Sell Some Shares In Microsoft Stock?",massive_raw_partner_headlines,2020-02-03,2020-02-03
+2020-02-03 19:49:00,"Argus Upgrades General Dynamics on Industry Turn, Price",kaggle_analyst_analyst_ratings_processed.csv,2020-02-03,2020-02-03
+2020-02-03 00:00:00,"MAI Wealth Advisors Buys Microsoft Corp, EPAM Systems Inc, Facebook Inc, Sells Antero Midstream ...",massive_raw_partner_headlines,2020-02-03,2020-02-03
+2020-02-03 00:00:00,"Signition LP Buys Bank of Montreal, BCE Inc, Visa Inc, Sells Microsoft Corp, Canadian Pacific ...",massive_raw_partner_headlines,2020-02-03,2020-02-03
 2020-02-03 00:00:00,"Hendershot Investments Inc. Buys General Dynamics Corp, Maximus Inc, Tractor Supply Co, Sells ...",massive_raw_partner_headlines,2020-02-03,2020-02-03
+2020-02-03 00:00:00,"Apple, Microsoft, Tesla Drive Big Gains In These Top Stock Plays This Year",massive_raw_partner_headlines,2020-02-03,2020-02-03
+2020-02-03 13:02:00,"Argus Research Upgrades General Dynamics to Buy, Announces $195 Price Target",kaggle_analyst_analyst_ratings_processed.csv,2020-02-03,2020-02-03
+2020-02-03 17:38:00,"UPDATE: Argus On General Dynamics Notes 'However, in the most recent quarter, Aerospace revenue, operating earnings, and bookings all improved, and we think the business has turned the corner'",kaggle_analyst_analyst_ratings_processed.csv,2020-02-03,2020-02-03
+2020-02-03 17:38:00,"UPDATE: Argus Upgrades General Dynamics To Buy, Announces $175 Target Notes 'We had previously been cautious on the stock due to problems in its Aerospace segment, and particularly in business jet manufacturing, which is transitioning to new products'",kaggle_analyst_analyst_ratings_processed.csv,2020-02-03,2020-02-03
+2020-02-03 00:00:00,"The Zacks Analyst Blog Highlights: Microsoft, Facebook, Novartis, Tesla and Raytheon",massive_raw_partner_headlines,2020-02-03,2020-02-03
 2020-02-04 00:00:00,"Dow Jones Soars 450 Points, Led By Microsoft, Nike, Apple; Disney Rallies Ahead Of Earnings",massive_raw_partner_headlines,2020-02-04,2020-02-04
-2020-02-04 00:00:00,"Fishman Jay A Ltd Buys Microsoft Corp, Planet Fitness Inc, TJX Inc, Sells Cisco Systems Inc, ...",massive_raw_partner_headlines,2020-02-04,2020-02-04
-2020-02-04 00:00:00,"A nearly 14% gain in Tesla Inc's stock on Tuesday was likely sparked by investors looking to hop aboard its remarkable rally, rather than a reversal of bearish bets, an analysis of positioning dynamics showed.",kaggle_financial_news,2020-02-04,2020-02-04
 2020-02-04 00:00:00,"Tesla Soars Again, Disney Earnings Preview & Buy Microsoft Stock - Free Lunch",massive_raw_partner_headlines,2020-02-04,2020-02-04
+2020-02-04 00:00:00,"Fishman Jay A Ltd Buys Microsoft Corp, Planet Fitness Inc, TJX Inc, Sells Cisco Systems Inc, ...",massive_raw_partner_headlines,2020-02-04,2020-02-04
 2020-02-04 00:00:00,"Peachtree Investment Partners, LLC Buys Apple Inc, Microsoft Corp, Global Payments Inc, Sells ...",massive_raw_partner_headlines,2020-02-04,2020-02-04
-2020-02-05 00:00:00,"Professional networking platform LinkedIn's chief executive officer, Jeff Weiner, said on Wednesday that he would step down from his position effective June 1.",kaggle_financial_news,2020-02-05,2020-02-05
 2020-02-05 08:09:00,"US Taps On Microsoft, Dell, Others To Create Huawei 5G Alternative For US",kaggle_analyst_analyst_ratings_processed.csv,2020-02-05,2020-02-05
-2020-02-06 00:00:00,"CBIZ Acquires Pension Dynamics Company, LLC",massive_raw_partner_headlines,2020-02-06,2020-02-06
 2020-02-06 21:08:00,"CBIZ Reports Purchase Of Pension Dynamics, No Terms Disclosed",kaggle_analyst_analyst_ratings_processed.csv,2020-02-06,2020-02-06
 2020-02-06 21:00:00,CBIZ Acquires Pension Dynamics Company; Terms Not Disclosed,kaggle_analyst_analyst_ratings_processed.csv,2020-02-06,2020-02-06
 2020-02-06 13:08:00,AngioDynamics Names Stephen Trowbridge CFO,kaggle_analyst_analyst_ratings_processed.csv,2020-02-06,2020-02-06
 2020-02-06 10:36:00,"JP Morgan Upgrades General Dynamics to Overweight, Raises Price Target to $225",kaggle_analyst_analyst_ratings_processed.csv,2020-02-06,2020-02-06
-2020-02-06 00:00:00,AngioDynamics (ANGO) Down 10.4% Since Last Earnings Report: Can It Rebound?,massive_raw_partner_headlines,2020-02-06,2020-02-06
-2020-02-06 00:00:00,What's in Store for Azure Power Global (AZRE) in Q3 Earnings?,massive_raw_partner_headlines,2020-02-06,2020-02-06
-2020-02-06 00:00:00,"Zacks Earnings Trends Highlights: Apple, Microsoft, Alphabet and Intel",massive_raw_partner_headlines,2020-02-06,2020-02-06
-2020-02-06 00:00:00,"Global Letter Vitamins Market Dynamics, Trends, Opportunities, Drivers, Challenges and ...",massive_raw_partner_headlines,2020-02-06,2020-02-06
-2020-02-06 00:00:00,"Tech Daily: AAPL Wearables, MSFT Leadership, GOOGL Pressures, More",massive_raw_partner_headlines,2020-02-06,2020-02-06
 2020-02-06 00:00:00,"Fiera Capital Corp Buys Microsoft Corp, Alphabet Inc, Varian Medical Systems Inc, Sells 'M ...",massive_raw_partner_headlines,2020-02-06,2020-02-06
-2020-02-06 00:00:00,Surface Acoustic Wave Resonator Market (Global Countries Data) : Global Industry Analysis by ...,massive_raw_partner_headlines,2020-02-06,2020-02-06
 2020-02-06 00:00:00,"The Zacks Analyst Blog Highlights: AGYS, SLM, FRTA, MSFT and TROW",massive_raw_partner_headlines,2020-02-06,2020-02-06
+2020-02-06 00:00:00,"CBIZ Acquires Pension Dynamics Company, LLC",massive_raw_partner_headlines,2020-02-06,2020-02-06
+2020-02-06 00:00:00,"Tech Daily: AAPL Wearables, MSFT Leadership, GOOGL Pressures, More",massive_raw_partner_headlines,2020-02-06,2020-02-06
 2020-02-06 00:00:00,ProQR Therapeutics Teams Up with the Foundation Fighting Blindness and Blueprint Genetics to ...,massive_raw_partner_headlines,2020-02-06,2020-02-06
 2020-02-06 00:00:00,"Zacks.com featured highlights include: MSFT, RUTH, RMD, CDNS, CRL and MXIM",massive_raw_partner_headlines,2020-02-06,2020-02-06
+2020-02-06 00:00:00,"Global Letter Vitamins Market Dynamics, Trends, Opportunities, Drivers, Challenges and ...",massive_raw_partner_headlines,2020-02-06,2020-02-06
+2020-02-06 00:00:00,"Zacks Earnings Trends Highlights: Apple, Microsoft, Alphabet and Intel",massive_raw_partner_headlines,2020-02-06,2020-02-06
+2020-02-06 00:00:00,What's in Store for Azure Power Global (AZRE) in Q3 Earnings?,massive_raw_partner_headlines,2020-02-06,2020-02-06
+2020-02-06 00:00:00,Surface Acoustic Wave Resonator Market (Global Countries Data) : Global Industry Analysis by ...,massive_raw_partner_headlines,2020-02-06,2020-02-06
+2020-02-06 00:00:00,AngioDynamics (ANGO) Down 10.4% Since Last Earnings Report: Can It Rebound?,massive_raw_partner_headlines,2020-02-06,2020-02-06
 2020-02-07 00:00:00,"Wade G W & Inc Buys General Dynamics Corp, Lyft Inc, iShares –-' Year Treasury Bond ...",massive_raw_partner_headlines,2020-02-07,2020-02-07
 2020-02-07 00:00:00,"The Zacks Analyst Blog Highlights: AAPL, GOOGL, MSFT, NFLX and DIS",massive_raw_partner_headlines,2020-02-07,2020-02-07
 2020-02-07 00:00:00,"Noesis Capital Mangement Corp Buys JPMorgan Ultra-Short Income ETF, Microsoft Corp, SPDR ...",massive_raw_partner_headlines,2020-02-07,2020-02-07
 2020-02-07 00:00:00,"Mizuho Securities Co. Ltd. Buys Broadcom Inc, NVIDIA Corp, Microsoft Corp, Sells Visa Inc, ...",massive_raw_partner_headlines,2020-02-07,2020-02-07
 2020-02-07 00:00:00,"USA Financial Portformulas Corp Buys Microsoft Corp, Apple Inc, Procter & Gamble Co, Sells ...",massive_raw_partner_headlines,2020-02-07,2020-02-07
-2020-02-10 00:00:00,"Accident Compensation Corp Buys ViacomCBS Inc, Microsoft Corp, Motorola Solutions Inc, Sells ...",massive_raw_partner_headlines,2020-02-10,2020-02-10
-2020-02-10 00:00:00,"Amazon Web Services said on Monday it was seeking to depose President Donald Trump and Defense Secretary Mark Esper in its lawsuit over whether the president was trying ""to screw Amazon"" when the Pentagon awarded a contract for cloud computing to rival Microsoft Corp.",kaggle_financial_news,2020-02-10,2020-02-10
-2020-02-10 18:05:00,"Stephens Maintains Overweight, $37 Target On Slack Notes IBM's Enterprise-Wide Adoption 'is another data point indicating Slack is the preferred option for enterprise collaboration (vs. Microsoft Teams)'",kaggle_analyst_analyst_ratings_processed.csv,2020-02-10,2020-02-10
-2020-02-10 00:00:00,"Electronic Security Market —…—': Growth Rate, Vendor, Market Dynamics, Market Overview, ...",massive_raw_partner_headlines,2020-02-10,2020-02-10
-2020-02-10 00:00:00,"Dow Jones Futures: Microsoft Tops Apple, Amazon Bests Google As Big Tech Leads Stock Market Rally; Slack Slacks Off Late",massive_raw_partner_headlines,2020-02-10,2020-02-10
-2020-02-10 00:00:00,"Dow Jones Reverses Higher As Boeing, Microsoft Rally, And Coronavirus Pace Slows",massive_raw_partner_headlines,2020-02-10,2020-02-10
-2020-02-10 00:00:00,"Tredje AP-fonden Buys NVIDIA Corp, Accenture PLC, Truist Financial Corp, Sells Microsoft Corp, ...",massive_raw_partner_headlines,2020-02-10,2020-02-10
-2020-02-10 00:00:00,"Baillie Gifford & Co Buys Trip.com Group, Peloton Interactive Inc, Microsoft Corp, Sells ...",massive_raw_partner_headlines,2020-02-10,2020-02-10
-2020-02-10 00:00:00,"Smart Airport Solutions Market Dynamics —…—…: Opportunities, Risks and Driving Factors ...",massive_raw_partner_headlines,2020-02-10,2020-02-10
 2020-02-09 00:00:00,"Rice Market —…—… Boosting the Growth Worldwide:Market Key Dynamics, Recent and Future ...",massive_raw_partner_headlines,2020-02-09,2020-02-10
 2020-02-09 00:00:00,"Global Hair Extension Market —…—… Analysis and in-Depth Research on Market Dynamics, ...",massive_raw_partner_headlines,2020-02-09,2020-02-10
+2020-02-10 00:00:00,"Dow Jones Futures: Microsoft Tops Apple, Amazon Bests Google As Big Tech Leads Stock Market Rally; Slack Slacks Off Late",massive_raw_partner_headlines,2020-02-10,2020-02-10
+2020-02-10 00:00:00,"Electronic Security Market —…—': Growth Rate, Vendor, Market Dynamics, Market Overview, ...",massive_raw_partner_headlines,2020-02-10,2020-02-10
+2020-02-10 00:00:00,"Baillie Gifford & Co Buys Trip.com Group, Peloton Interactive Inc, Microsoft Corp, Sells ...",massive_raw_partner_headlines,2020-02-10,2020-02-10
+2020-02-10 00:00:00,"Smart Airport Solutions Market Dynamics —…—…: Opportunities, Risks and Driving Factors ...",massive_raw_partner_headlines,2020-02-10,2020-02-10
+2020-02-10 00:00:00,"Dow Jones Reverses Higher As Boeing, Microsoft Rally, And Coronavirus Pace Slows",massive_raw_partner_headlines,2020-02-10,2020-02-10
+2020-02-10 00:00:00,"Accident Compensation Corp Buys ViacomCBS Inc, Microsoft Corp, Motorola Solutions Inc, Sells ...",massive_raw_partner_headlines,2020-02-10,2020-02-10
+2020-02-10 00:00:00,"Tredje AP-fonden Buys NVIDIA Corp, Accenture PLC, Truist Financial Corp, Sells Microsoft Corp, ...",massive_raw_partner_headlines,2020-02-10,2020-02-10
+2020-02-10 18:05:00,"Stephens Maintains Overweight, $37 Target On Slack Notes IBM's Enterprise-Wide Adoption 'is another data point indicating Slack is the preferred option for enterprise collaboration (vs. Microsoft Teams)'",kaggle_analyst_analyst_ratings_processed.csv,2020-02-10,2020-02-10
 2020-02-11 19:46:00,General Dynamics Mission Systems Awarded $883 Million Contract To Modernize U.S. Army Training Programs,kaggle_analyst_analyst_ratings_processed.csv,2020-02-11,2020-02-11
 2020-02-11 10:23:00,"Deutsche Bank Seeking Bids From Microsoft, Google, Amazon to Overhaul Its Technology",kaggle_analyst_analyst_ratings_processed.csv,2020-02-11,2020-02-11
-2020-02-11 00:00:00,"Japan's MUFG  and Mizuho  have hired a total of nearly 100 staff in London in the last 6 months, bolstering their trading and investment banking teams despite industry concerns over Brexit's impact on financial services in Britain.",kaggle_financial_news,2020-02-11,2020-02-11
-2020-02-11 00:00:00,"Concerned that big tech companies are unfairly engaging in potential anti-competitive behavior, the Federal Trade Commission said on Tuesday it ordered Alphabet Inc's  Google unit, Amazon.com Inc , Apple Inc , Facebook Inc  and Microsoft Corp  to provide information on mergers that were too small to report to antitrust regulators.",kaggle_financial_news,2020-02-11,2020-02-11
-2020-02-11 00:00:00,"Argent Trust Co Buys Truist Financial Corp, Bristol-Myers Squibb Company, General Dynamics ...",massive_raw_partner_headlines,2020-02-11,2020-02-11
-2020-02-11 00:00:00,"EAM Investors, LLC Buys ChemoCentryx Inc, Nordic American Tankers, Douglas Dynamics Inc, Sells ...",massive_raw_partner_headlines,2020-02-11,2020-02-11
 2020-02-11 00:00:00,"The Zacks Analyst Blog Highlights: Microsoft, JP Morgan Chase and Pfizer",massive_raw_partner_headlines,2020-02-11,2020-02-11
-2020-02-11 00:00:00,"Mitsubishi UFJ Securities International PLC Buys Microsoft Corp, Alphabet Inc, Amazon. ...",massive_raw_partner_headlines,2020-02-11,2020-02-11
 2020-02-11 00:00:00,"Douglas Dynamics, Inc. Announces Fourth Quarter and Full Year —…–9 Earnings Release and ...",massive_raw_partner_headlines,2020-02-11,2020-02-11
-2020-02-11 00:00:00,"Deutsche Bank has invited bids from Microsoft, Google and Amazon to overhaul the German bank's outdated and fragmented technology networks, people with knowledge of the matter said.",kaggle_financial_news,2020-02-11,2020-02-11
 2020-02-11 00:00:00,"Dow Jones Gain Cools, Microsoft Off 2%; These 3 Growth Stocks Show Strength",massive_raw_partner_headlines,2020-02-11,2020-02-11
+2020-02-11 00:00:00,"Mitsubishi UFJ Securities International PLC Buys Microsoft Corp, Alphabet Inc, Amazon. ...",massive_raw_partner_headlines,2020-02-11,2020-02-11
+2020-02-11 00:00:00,"EAM Investors, LLC Buys ChemoCentryx Inc, Nordic American Tankers, Douglas Dynamics Inc, Sells ...",massive_raw_partner_headlines,2020-02-11,2020-02-11
+2020-02-11 00:00:00,"Argent Trust Co Buys Truist Financial Corp, Bristol-Myers Squibb Company, General Dynamics ...",massive_raw_partner_headlines,2020-02-11,2020-02-11
 2020-02-12 18:13:00,"CFRA Upgrades General Dynamics to Buy, Raises Price Target to $211",kaggle_analyst_analyst_ratings_processed.csv,2020-02-12,2020-02-12
 2020-02-12 10:03:00,"Perion Launches Privado Private Search Engine, Powered by Microsoft's Bing",kaggle_analyst_analyst_ratings_processed.csv,2020-02-12,2020-02-12
 2020-02-12 20:01:00,"General Dynamics Shares Tick Higher; Hearing CFRA Upgrades From Hold To Buy, Raises Price Target From $195 To $211",kaggle_analyst_analyst_ratings_processed.csv,2020-02-12,2020-02-12
+2020-02-12 00:00:00,"First Eagle Investment Cuts 'M, Microsoft",massive_raw_partner_headlines,2020-02-12,2020-02-12
 2020-02-12 00:00:00,Steel Dynamics: Buy The Coronavirus Scare,massive_raw_partner_headlines,2020-02-12,2020-02-12
 2020-02-12 00:00:00,"The Zacks Analyst Blog Highlights: Microsoft, IBM, Intel, Apple and Lam Research",massive_raw_partner_headlines,2020-02-12,2020-02-12
-2020-02-12 00:00:00,"First Eagle Investment Cuts 'M, Microsoft",massive_raw_partner_headlines,2020-02-12,2020-02-12
+2020-02-13 00:00:00,"Firsthand Capital Management, Inc. Buys Quanta Services Inc, Sells Microsoft Corp, Box Inc, ...",massive_raw_partner_headlines,2020-02-13,2020-02-13
 2020-02-13 00:00:00,"Rovida Advisors Inc. Buys Microsoft Corp, The Walt Disney Co, Chevron Corp, Sells Cigna Corp, ...",massive_raw_partner_headlines,2020-02-13,2020-02-13
 2020-02-13 00:00:00,"Thinking about trading options or stock in Apple, Ambarella, Alibaba, Cigna, or Microsoft?",massive_raw_partner_headlines,2020-02-13,2020-02-13
-2020-02-13 00:00:00,"Firsthand Capital Management, Inc. Buys Quanta Services Inc, Sells Microsoft Corp, Box Inc, ...",massive_raw_partner_headlines,2020-02-13,2020-02-13
-2020-02-13 00:00:00,A U.S. judge on Thursday granted Amazon.com Inc's request to temporarily halt the U.S. Department of Defense and Microsoft Corp from moving forward on an up-to-$10 billion cloud computing deal that Amazon says reflected undue influence by President Donald Trump.,kaggle_financial_news,2020-02-13,2020-02-13
-2020-02-13 00:00:00,Steel Dynamics: Buy The Coronavirus Scare,massive_raw_partner_headlines,2020-02-13,2020-02-13
 2020-02-13 00:00:00,"FDx Advisors, Inc. Buys Microsoft Corp, Visa Inc, Alphabet Inc, Sells Oracle Corp, Vanguard ...",massive_raw_partner_headlines,2020-02-13,2020-02-13
+2020-02-13 00:00:00,Steel Dynamics: Buy The Coronavirus Scare,massive_raw_partner_headlines,2020-02-13,2020-02-13
 2020-02-13 00:00:00,"Adobe, Microsoft Among Top Stocks Hitting 20% Gains; Should You Hold Or Sell?",massive_raw_partner_headlines,2020-02-13,2020-02-13
 2020-02-13 22:21:00,"13F From Dan Loeb's Third Point Shows Dissolved Stakes In PayPal, Microsoft, Tradeweb, GoDaddy",kaggle_analyst_analyst_ratings_processed.csv,2020-02-13,2020-02-13
-2020-02-14 19:05:00,"Tiger Global Cuts Stakes In Facebook, Netflix, Alibaba, Microsoft, Amazon, Salesforce.com",kaggle_analyst_analyst_ratings_processed.csv,2020-02-14,2020-02-14
 2020-02-14 18:52:00,"UPDATE: Rosenblatt On Nvidia Notes 'Although the market dynamics are different (more competition), from the missionary work Nvidia has done in AI training, we do believe the company's unambiguous leadership in GPU/GPU compute is intact'",kaggle_analyst_analyst_ratings_processed.csv,2020-02-14,2020-02-14
-2020-02-14 00:00:00,"Ithaka Group Llc Buys Global Payments Inc, Amgen Inc, Sells Mastercard Inc, Visa Inc, Microsoft Corp",massive_raw_partner_headlines,2020-02-14,2020-02-14
-2020-02-14 00:00:00,"Bbr Partners, Llc Buys Slack Technologies Inc, Urban Edge Properties, Microsoft Corp, Sells ...",massive_raw_partner_headlines,2020-02-14,2020-02-14
 2020-02-14 00:00:00,Cloud Stocks: Qualys Counts On Google aAd Microsoft For Growth,massive_raw_partner_headlines,2020-02-14,2020-02-14
+2020-02-14 19:05:00,"Tiger Global Cuts Stakes In Facebook, Netflix, Alibaba, Microsoft, Amazon, Salesforce.com",kaggle_analyst_analyst_ratings_processed.csv,2020-02-14,2020-02-14
+2020-02-14 00:00:00,"Ithaka Group Llc Buys Global Payments Inc, Amgen Inc, Sells Mastercard Inc, Visa Inc, Microsoft Corp",massive_raw_partner_headlines,2020-02-14,2020-02-14
 2020-02-14 00:00:00,Cloud Stocks: Qualys Counts On Google And Microsoft For Growth,massive_raw_partner_headlines,2020-02-14,2020-02-14
+2020-02-14 00:00:00,"Bbr Partners, Llc Buys Slack Technologies Inc, Urban Edge Properties, Microsoft Corp, Sells ...",massive_raw_partner_headlines,2020-02-14,2020-02-14
 2020-02-18 00:00:00,"Pioneer Investment Management Inc Buys Microsoft Corp, Amazon. ...",massive_raw_partner_headlines,2020-02-18,2020-02-18
 2020-02-18 22:01:00,"Hudbay Minerals Reports Pampacancha Surface Rights Deal, No Terms Disclosed",kaggle_analyst_analyst_ratings_processed.csv,2020-02-18,2020-02-18
+2020-02-18 00:00:00,"Thor Advisors, LLC Buys Global X Silver Miners, Sells Amazon.com Inc, FedEx Corp, Microsoft Corp",massive_raw_partner_headlines,2020-02-18,2020-02-18
+2020-02-18 00:00:00,"The Zacks Analyst Blog Highlights: NVIDIA, Cisco, Amazon, Facebook and Microsoft",massive_raw_partner_headlines,2020-02-18,2020-02-18
+2020-02-18 00:00:00,KPMG and Microsoft Corporation to Form an Alliance to Digitally Transform Professional Services,massive_raw_partner_headlines,2020-02-18,2020-02-18
 2020-02-18 00:00:00,"Capital International Ltd Buys Facebook Inc, Microsoft Corp, Amazon. ...",massive_raw_partner_headlines,2020-02-18,2020-02-18
 2020-02-18 00:00:00,Sigma Electric announces that it has just completed its acquisition of Tooling Dynamics,massive_raw_partner_headlines,2020-02-18,2020-02-18
-2020-02-18 00:00:00,"The Zacks Analyst Blog Highlights: NVIDIA, Cisco, Amazon, Facebook and Microsoft",massive_raw_partner_headlines,2020-02-18,2020-02-18
-2020-02-18 00:00:00,"Thor Advisors, LLC Buys Global X Silver Miners, Sells Amazon.com Inc, FedEx Corp, Microsoft Corp",massive_raw_partner_headlines,2020-02-18,2020-02-18
 2020-02-18 00:00:00,"Stock Market Views: XLE, MPC, DBA, Vs. TSLA, MSFT, AMZN",massive_raw_partner_headlines,2020-02-18,2020-02-18
-2020-02-18 00:00:00,KPMG and Microsoft Corporation to Form an Alliance to Digitally Transform Professional Services,massive_raw_partner_headlines,2020-02-18,2020-02-18
-2020-02-17 00:00:00,"Pioneer Investment Management Inc Buys Microsoft Corp, Amazon. ...",massive_raw_partner_headlines,2020-02-17,2020-02-18
-2020-02-17 00:00:00,"Public Cloud Services Market —…–9: CAGR Status, Size, Industry Dynamics, Manufacturers, ...",massive_raw_partner_headlines,2020-02-17,2020-02-18
-2020-02-17 00:00:00,"TOMS Capital Investment Management LP Buys InterXion Holding NV, Microsoft Corp, Fidelity ...",massive_raw_partner_headlines,2020-02-17,2020-02-18
-2020-02-17 00:00:00,"Aristotle Capital Management, LLC Buys SPDR S&P 5……, Microsoft Corp, Adobe Inc, Sells ...",massive_raw_partner_headlines,2020-02-17,2020-02-18
-2020-02-17 00:00:00,"Sycomore Asset Management Buys Microsoft Corp, Nomad Foods, Ulta Beauty Inc, Sells Qiagen NV, ...",massive_raw_partner_headlines,2020-02-17,2020-02-18
-2020-02-17 00:00:00,"Bluefin Trading, LLC Buys Apple Inc, Microsoft Corp, NVIDIA Corp, Sells NXP Semiconductors NV, ...",massive_raw_partner_headlines,2020-02-17,2020-02-18
 2020-02-18 00:00:00,"Marketviews Interview: XLE, MPC, DBA, vs. TSLA, MSFT, AMZN",massive_raw_partner_headlines,2020-02-18,2020-02-18
 2020-02-17 00:00:00,"Cleararc Capital Inc Buys ServiceNow Inc, Las Vegas Sands Corp, ViacomCBS Inc, Sells Microsoft ...",massive_raw_partner_headlines,2020-02-17,2020-02-18
+2020-02-17 00:00:00,"Bluefin Trading, LLC Buys Apple Inc, Microsoft Corp, NVIDIA Corp, Sells NXP Semiconductors NV, ...",massive_raw_partner_headlines,2020-02-17,2020-02-18
+2020-02-17 00:00:00,"Public Cloud Services Market —…–9: CAGR Status, Size, Industry Dynamics, Manufacturers, ...",massive_raw_partner_headlines,2020-02-17,2020-02-18
+2020-02-17 00:00:00,"Aristotle Capital Management, LLC Buys SPDR S&P 5……, Microsoft Corp, Adobe Inc, Sells ...",massive_raw_partner_headlines,2020-02-17,2020-02-18
 2020-02-17 00:00:00,"Windows &amp; Doors Market Review by Opportunities Comprehensive Study, Development Status ...",massive_raw_partner_headlines,2020-02-17,2020-02-18
-2020-02-19 00:00:00,"Chris Davis' Firm Buys Intel, Sells Microsoft",massive_raw_partner_headlines,2020-02-19,2020-02-19
-2020-02-19 00:00:00,"Lee Ainslie Cuts Ownes-Corning, Microsoft",massive_raw_partner_headlines,2020-02-19,2020-02-19
-2020-02-19 00:00:00,"Marketviews Interview: XLE, MPC, DBA, vs. TSLA, MSFT, AMZN",massive_raw_partner_headlines,2020-02-19,2020-02-19
-2020-02-19 00:00:00,"Stock Market Views: XLE, MPC, DBA, Vs. TSLA, MSFT, AMZN",massive_raw_partner_headlines,2020-02-19,2020-02-19
+2020-02-17 00:00:00,"TOMS Capital Investment Management LP Buys InterXion Holding NV, Microsoft Corp, Fidelity ...",massive_raw_partner_headlines,2020-02-17,2020-02-18
+2020-02-17 00:00:00,"Pioneer Investment Management Inc Buys Microsoft Corp, Amazon. ...",massive_raw_partner_headlines,2020-02-17,2020-02-18
+2020-02-17 00:00:00,"Sycomore Asset Management Buys Microsoft Corp, Nomad Foods, Ulta Beauty Inc, Sells Qiagen NV, ...",massive_raw_partner_headlines,2020-02-17,2020-02-18
 2020-02-19 00:00:00,BlackBerry Cylance —…—… Annual Threat Report Reveals Scope of Global Attack Surface ...,massive_raw_partner_headlines,2020-02-19,2020-02-19
+2020-02-19 00:00:00,"Demand Signal Repository Solutions Market Insights –Dynamics, Segments, Competitive Analysis ...",massive_raw_partner_headlines,2020-02-19,2020-02-19
+2020-02-19 00:00:00,"Lee Ainslie Cuts Ownes-Corning, Microsoft",massive_raw_partner_headlines,2020-02-19,2020-02-19
 2020-02-19 00:00:00,"Flange Bolt Market Boosting the Growth Worldwide: —…—… Market Key Dynamics, Recent and ...",massive_raw_partner_headlines,2020-02-19,2020-02-19
 2020-02-19 00:00:00,Global Surface Mount Switch Market Report —…—…-—…—4 Allows You Strategizing ...,massive_raw_partner_headlines,2020-02-19,2020-02-19
-2020-02-19 00:00:00,"Demand Signal Repository Solutions Market Insights –Dynamics, Segments, Competitive Analysis ...",massive_raw_partner_headlines,2020-02-19,2020-02-19
 2020-02-19 00:00:00,Zayo & Microsoft Team Up to Reduce Rural Digital Disparity,massive_raw_partner_headlines,2020-02-19,2020-02-19
-2020-02-20 00:00:00,"Man-Made Diamond Market Boosting the Growth Worldwide: —…—… Market Key Dynamics, Recent ...",massive_raw_partner_headlines,2020-02-20,2020-02-20
+2020-02-19 00:00:00,"Chris Davis' Firm Buys Intel, Sells Microsoft",massive_raw_partner_headlines,2020-02-19,2020-02-19
+2020-02-19 00:00:00,"Stock Market Views: XLE, MPC, DBA, Vs. TSLA, MSFT, AMZN",massive_raw_partner_headlines,2020-02-19,2020-02-19
+2020-02-19 00:00:00,"Marketviews Interview: XLE, MPC, DBA, vs. TSLA, MSFT, AMZN",massive_raw_partner_headlines,2020-02-19,2020-02-19
+2020-02-20 00:00:00,"The Zacks Analyst Blog Highlights: Microsoft, Applied Materials, SAP SE, Lam Research and Tencent",massive_raw_partner_headlines,2020-02-20,2020-02-20
+2020-02-20 00:00:00,Bet on Microsoft & 5 Other Top-Ranked Tech Stocks to Win Big,massive_raw_partner_headlines,2020-02-20,2020-02-20
 2020-02-20 00:00:00,"Platinum-Group Metals Market —…—… dynamics (drivers, restraints, opportunities), plans, ...",massive_raw_partner_headlines,2020-02-20,2020-02-20
 2020-02-20 00:00:00,"Aqueous Polyurethane Resins Market —…—… dynamics (drivers, restraints, opportunities), ...",massive_raw_partner_headlines,2020-02-20,2020-02-20
-2020-02-20 00:00:00,"Cyanamide Solution Market Boosting the Growth Worldwide: —…—… Market Key Dynamics, ...",massive_raw_partner_headlines,2020-02-20,2020-02-20
 2020-02-20 00:00:00,"Anti-corrosive Resin Market Boosting the Growth Worldwide: —…—… Market Key Dynamics, ...",massive_raw_partner_headlines,2020-02-20,2020-02-20
-2020-02-20 00:00:00,"The Zacks Analyst Blog Highlights: Microsoft, Applied Materials, SAP SE, Lam Research and Tencent",massive_raw_partner_headlines,2020-02-20,2020-02-20
-2020-02-20 00:00:00,"Microsoft  Chief Executive Satya Nadella said the technology giant will invest $1.1 billion in Mexico over the next five years, according to a promotional video released by the Mexican government on Thursday.",kaggle_financial_news,2020-02-20,2020-02-20
-2020-02-20 00:00:00,Bet on Microsoft & 5 Other Top-Ranked Tech Stocks to Win Big,massive_raw_partner_headlines,2020-02-20,2020-02-20
+2020-02-20 00:00:00,"Man-Made Diamond Market Boosting the Growth Worldwide: —…—… Market Key Dynamics, Recent ...",massive_raw_partner_headlines,2020-02-20,2020-02-20
 2020-02-20 00:00:00,"The Zacks Analyst Blog Highlights: Microsoft, International Business Machines, Intel, Apple and Amazon.com",massive_raw_partner_headlines,2020-02-20,2020-02-20
-2020-02-21 00:00:00,"Zacks.com featured highlights include: Microsoft, Ruth???s Hospitality, ResMed, Ross Stores and Maxim Integrated Products",massive_raw_partner_headlines,2020-02-21,2020-02-21
-2020-02-21 00:00:00,"Stocks Today Fall On Coronavirus News, Treasury Bond Yields Plunge; Take More Gains In Microsoft?",massive_raw_partner_headlines,2020-02-21,2020-02-21
-2020-02-21 00:00:00,Electronic Toll Collection Market Insights Covering Market Dynamics and Competitive Scenario ...,massive_raw_partner_headlines,2020-02-21,2020-02-21
+2020-02-20 00:00:00,"Cyanamide Solution Market Boosting the Growth Worldwide: —…—… Market Key Dynamics, ...",massive_raw_partner_headlines,2020-02-20,2020-02-20
 2020-02-21 20:01:00,NOAA Awards General Dynamics High-Performance Computing Contract Worth $505M,kaggle_analyst_analyst_ratings_processed.csv,2020-02-21,2020-02-21
+2020-02-21 00:00:00,"Stocks Today Fall On Coronavirus News, Treasury Bond Yields Plunge; Take More Gains In Microsoft?",massive_raw_partner_headlines,2020-02-21,2020-02-21
+2020-02-21 00:00:00,"Zacks.com featured highlights include: Microsoft, Ruth???s Hospitality, ResMed, Ross Stores and Maxim Integrated Products",massive_raw_partner_headlines,2020-02-21,2020-02-21
+2020-02-21 00:00:00,Electronic Toll Collection Market Insights Covering Market Dynamics and Competitive Scenario ...,massive_raw_partner_headlines,2020-02-21,2020-02-21
+2020-02-23 00:00:00,"Chloride Ion Meters Market —…—… by Size, Industry Dynamics, Manufacturers, Type and ...",massive_raw_partner_headlines,2020-02-23,2020-02-24
+2020-02-24 00:00:00,CenturyLink Joins Networking Managed Service Provider Program for Microsoft Azure,massive_raw_partner_headlines,2020-02-24,2020-02-24
 2020-02-24 00:00:00,"Homrich & Berg Buys The Home Depot Inc, JPMorgan Ultra-Short Income, Microsoft Corp, Sells ...",massive_raw_partner_headlines,2020-02-24,2020-02-24
+2020-02-24 00:00:00,"Nomura Asset Management Co Ltd Buys Microsoft Corp, Alibaba Group Holding, Apple Inc",massive_raw_partner_headlines,2020-02-24,2020-02-24
 2020-02-24 00:00:00,"K— Principal Fund, L.p. Buys Microsoft Corp, McDonald's Corp, 'M Co, Sells Virgin Galactic ...",massive_raw_partner_headlines,2020-02-24,2020-02-24
 2020-02-24 00:00:00,"Waste Heat Recovery System Market Share, Size —…—… Analysis, Dynamics, Forecast and ...",massive_raw_partner_headlines,2020-02-24,2020-02-24
-2020-02-24 00:00:00,"Nomura Asset Management Co Ltd Buys Microsoft Corp, Alibaba Group Holding, Apple Inc",massive_raw_partner_headlines,2020-02-24,2020-02-24
-2020-02-24 00:00:00,CenturyLink Joins Networking Managed Service Provider Program for Microsoft Azure,massive_raw_partner_headlines,2020-02-24,2020-02-24
-2020-02-23 00:00:00,"Chloride Ion Meters Market —…—… by Size, Industry Dynamics, Manufacturers, Type and ...",massive_raw_partner_headlines,2020-02-23,2020-02-24
 2020-02-25 00:00:00,Data Center Networking Market —…—… boosting the growth Worldwide: Market dynamics and ...,massive_raw_partner_headlines,2020-02-25,2020-02-25
 2020-02-25 13:59:00,"Douglas Dynamics Yesterday Reported Q4 EPS $0.72 Beats $0.65 Estimate, Sales $160.298M Beat $150.33M Estimate",kaggle_analyst_analyst_ratings_processed.csv,2020-02-25,2020-02-25
-2020-02-26 14:21:00,"Baird Maintains Neutral on Douglas Dynamics, Lowers Price Target to $50",kaggle_analyst_analyst_ratings_processed.csv,2020-02-26,2020-02-26
 2020-02-26 22:16:00,Steel Dynamics Raises Qtr. Dividend From $0.24 To $0.25/Share,kaggle_analyst_analyst_ratings_processed.csv,2020-02-26,2020-02-26
-2020-02-26 22:15:00,Steel Dynamics Adds $500M To Buyback,kaggle_analyst_analyst_ratings_processed.csv,2020-02-26,2020-02-26
 2020-02-26 14:48:00,"Sealed Air Shares Up 2.5% At Session High; As Traders Circulate 2014-Press Release Highlighting Purchase Of Virox Technologies Which Owned A Surface Cleaning, Disinfection Application",kaggle_analyst_analyst_ratings_processed.csv,2020-02-26,2020-02-26
-2020-02-26 00:00:00,Microsoft Slides After Cutting Personal Computing Guidance Due To Coronavirus; Intel Dragged Lower,massive_raw_partner_headlines,2020-02-26,2020-02-26
+2020-02-26 14:21:00,"Baird Maintains Neutral on Douglas Dynamics, Lowers Price Target to $50",kaggle_analyst_analyst_ratings_processed.csv,2020-02-26,2020-02-26
+2020-02-26 22:15:00,Steel Dynamics Adds $500M To Buyback,kaggle_analyst_analyst_ratings_processed.csv,2020-02-26,2020-02-26
 2020-02-26 00:00:00,"Capital Wealth Planning, LLC Buys Nike Inc, Microsoft Corp, Schlumberger, Sells Apple Inc, ...",massive_raw_partner_headlines,2020-02-26,2020-02-26
 2020-02-26 00:00:00,Growth Dynamics on Regenerative Medicine Market —…—…-—…—6| Key Players: Integra ...,massive_raw_partner_headlines,2020-02-26,2020-02-26
 2020-02-26 00:00:00,Protiviti Teams Up with Global Golf Standout Matthew Fitzpatrick and Augusta National Women's ...,massive_raw_partner_headlines,2020-02-26,2020-02-26
-2020-02-26 00:00:00,"Microsoft Inc said on Wednesday it does not expect to meet its quarterly revenue forecast for its Windows and personal computing business as a result of the coronavirus outbreak, sending its shares down more than 1% in after-market trading.",kaggle_financial_news,2020-02-26,2020-02-26
+2020-02-26 00:00:00,Microsoft Slides After Cutting Personal Computing Guidance Due To Coronavirus; Intel Dragged Lower,massive_raw_partner_headlines,2020-02-26,2020-02-26
+2020-02-27 14:10:00,"Microsoft Keen On Investing In Indonesia, Says The President, Promises Simpler Regulations",kaggle_analyst_analyst_ratings_processed.csv,2020-02-27,2020-02-27
 2020-02-27 12:58:00,"Benzinga Pro's Top 5 Stocks To Watch For Thurs., Feb. 27, 2020: MSFT, JCP, APT, BBY, TNXP",kaggle_analyst_analyst_ratings_processed.csv,2020-02-27,2020-02-27
 2020-02-27 03:06:00,Microsoft Shares Fall As Company Warns Of Q3 Earnings Miss Due To Coronavirus Impact,kaggle_analyst_analyst_ratings_processed.csv,2020-02-27,2020-02-27
-2020-02-27 00:00:00,Dow Jones Plunges 650 Points On Rapidly Spreading Coronavirus; Microsoft Plunges On Revenue Warning,massive_raw_partner_headlines,2020-02-27,2020-02-27
-2020-02-27 00:00:00,"Shares of Microsoft Corp  fell 4% on Thursday after the company warned of weakness in its PC business after a hit to its supply chain from the coronavirus outbreak, echoing similar statements from Apple Inc  and HP .",kaggle_financial_news,2020-02-27,2020-02-27
-2020-02-27 00:00:00,"Microsoft Corp is keen to invest in data centers in Indonesia which will soon make regulatory changes to facilitate the move, the country's president said after meeting with the software giant's CEO on Thursday.",kaggle_financial_news,2020-02-27,2020-02-27
-2020-02-27 14:10:00,"Microsoft Keen On Investing In Indonesia, Says The President, Promises Simpler Regulations",kaggle_analyst_analyst_ratings_processed.csv,2020-02-27,2020-02-27
+2020-02-27 00:00:00,"Steel Dynamics Hikes Dividend, Approves $500M Share Buyback",massive_raw_partner_headlines,2020-02-27,2020-02-27
+2020-02-27 00:00:00,"Steel Dynamics Inc (STLD) Files –…-K for the Fiscal Year Ended on December '–, —…–9",massive_raw_partner_headlines,2020-02-27,2020-02-27
 2020-02-27 00:00:00,"Automotive Automatic Transmission Shift Lever Market —…—… by Size, Industry Dynamics, ...",massive_raw_partner_headlines,2020-02-27,2020-02-27
 2020-02-27 00:00:00,"Top Analyst Reports for Microsoft, Chevron & Accenture",massive_raw_partner_headlines,2020-02-27,2020-02-27
 2020-02-27 00:00:00,Edge AI Software Market (New PDF) [Review: —…—…-—…—9] | Top Players – Microsoft ...,massive_raw_partner_headlines,2020-02-27,2020-02-27
+2020-02-27 00:00:00,Dow Jones Plunges 650 Points On Rapidly Spreading Coronavirus; Microsoft Plunges On Revenue Warning,massive_raw_partner_headlines,2020-02-27,2020-02-27
 2020-02-27 00:00:00,Microsoft Revises Sales Guidance on Coronavirus: ETFs in Focus,massive_raw_partner_headlines,2020-02-27,2020-02-27
 2020-02-27 00:00:00,"Automotive Air Bag Fabric Industry —…—… Size, Competitive Market Share, Market Dynamics ...",massive_raw_partner_headlines,2020-02-27,2020-02-27
-2020-02-27 00:00:00,"Steel Dynamics Inc (STLD) Files –…-K for the Fiscal Year Ended on December '–, —…–9",massive_raw_partner_headlines,2020-02-27,2020-02-27
-2020-02-27 00:00:00,"Steel Dynamics Hikes Dividend, Approves $500M Share Buyback",massive_raw_partner_headlines,2020-02-27,2020-02-27
-2020-02-28 00:00:00,"Great Point Wealth Advisors, LLC Buys Microsoft Corp, Crane Co, iShares Core Aggressive Allocation",massive_raw_partner_headlines,2020-02-28,2020-02-28
+2020-02-28 00:00:00,"The Zacks Analyst Blog Highlights: Microsoft, Chevron, Accenture, Coca-Cola and Charles Schwab",massive_raw_partner_headlines,2020-02-28,2020-02-28
 2020-02-28 00:00:00,"The Zacks Analyst Blog Highlights: Microsoft, Electronic Arts, Activision Blizzard, Take-Two Interactive Software and Nintendo",massive_raw_partner_headlines,2020-02-28,2020-02-28
 2020-02-28 00:00:00,"Coronavirus Stock Market Correction Takes Hold As Dow Jones Suffers Worst Week Loss In Years; Microsoft, Mastercard Warn, Disney CEO Bob Iger Out",massive_raw_partner_headlines,2020-02-28,2020-02-28
-2020-02-28 00:00:00,"The Zacks Analyst Blog Highlights: Microsoft, Chevron, Accenture, Coca-Cola and Charles Schwab",massive_raw_partner_headlines,2020-02-28,2020-02-28
-2020-03-02 00:00:00,"The Zacks Analyst Blog Highlights: Microsoft, Tesla, Cisco, PayPal and Alphabet",massive_raw_partner_headlines,2020-03-02,2020-03-02
+2020-02-28 00:00:00,"Great Point Wealth Advisors, LLC Buys Microsoft Corp, Crane Co, iShares Core Aggressive Allocation",massive_raw_partner_headlines,2020-02-28,2020-02-28
 2020-03-02 00:00:00,"Douglas Dynamics Inc (PLOW) CFO and Secretary Sarah C Lauber Bought $5…,564 of Shares",massive_raw_partner_headlines,2020-03-02,2020-03-02
-2020-03-02 00:00:00,"Zacks.com featured highlights include: Camtek, SP Plus, Granite Point Mortgage Trust, Vivint Smart Home and Douglas Dynamics",massive_raw_partner_headlines,2020-03-02,2020-03-02
-2020-03-02 00:00:00,"Banks and exchanges in Europe are readying out-of-town offices, splitting shifts and isolating some teams to ensure they can keep trading if coronavirus spreads in more major financial centers.",kaggle_financial_news,2020-03-02,2020-03-02
-2020-03-02 00:00:00,"Dow Jones Futures: Apple, Microsoft Lead Strong Market Rally, But It's Still A Coronavirus Stock Market Correction; Watch These Leaders",massive_raw_partner_headlines,2020-03-02,2020-03-02
 2020-03-02 22:16:00,"Apple, Microsoft And A Few Cyclicals Lead Broad-Based Stock Rally; Bond Yields Extend Weakness",kaggle_analyst_analyst_ratings_processed.csv,2020-03-02,2020-03-02
-2020-03-03 00:00:00,net—phone's Cloud Communications Service Now Integrates with Microsoft Teams,massive_raw_partner_headlines,2020-03-03,2020-03-03
-2020-03-03 00:00:00,"Desktop Software — Microsoft, Adobe: What's Old Is New As The Market Executes A Shakeout",massive_raw_partner_headlines,2020-03-03,2020-03-03
-2020-03-03 00:00:00,Steel Dynamics to Buy Zimmer to Support New Flat Roll Mill,massive_raw_partner_headlines,2020-03-03,2020-03-03
+2020-03-02 00:00:00,"Zacks.com featured highlights include: Camtek, SP Plus, Granite Point Mortgage Trust, Vivint Smart Home and Douglas Dynamics",massive_raw_partner_headlines,2020-03-02,2020-03-02
+2020-03-02 00:00:00,"The Zacks Analyst Blog Highlights: Microsoft, Tesla, Cisco, PayPal and Alphabet",massive_raw_partner_headlines,2020-03-02,2020-03-02
+2020-03-02 00:00:00,"Dow Jones Futures: Apple, Microsoft Lead Strong Market Rally, But It's Still A Coronavirus Stock Market Correction; Watch These Leaders",massive_raw_partner_headlines,2020-03-02,2020-03-02
 2020-03-03 00:00:00,Bull of the Day: Microsoft (MSFT),massive_raw_partner_headlines,2020-03-03,2020-03-03
 2020-03-03 00:00:00,"Thinking about trading options or stock in Cisco Systems, Gilead Sciences, Microsoft, Target, ...",massive_raw_partner_headlines,2020-03-03,2020-03-03
 2020-03-03 00:00:00,"Microsoft, Shopify, Charles Schwab, E-Trade and Morgan Stanley highlighted as Zacks Bull and Bear of the Day",massive_raw_partner_headlines,2020-03-03,2020-03-03
+2020-03-03 00:00:00,Steel Dynamics to Buy Zimmer to Support New Flat Roll Mill,massive_raw_partner_headlines,2020-03-03,2020-03-03
+2020-03-03 00:00:00,"Desktop Software — Microsoft, Adobe: What's Old Is New As The Market Executes A Shakeout",massive_raw_partner_headlines,2020-03-03,2020-03-03
+2020-03-03 00:00:00,net—phone's Cloud Communications Service Now Integrates with Microsoft Teams,massive_raw_partner_headlines,2020-03-03,2020-03-03
+2020-03-04 22:01:00,General Dynamics Adds 10M Shares To Buyback; Raises Qtr. Dividend From $1.02 To $1.10/Share,kaggle_analyst_analyst_ratings_processed.csv,2020-03-04,2020-03-04
 2020-03-04 00:00:00,"The Zacks Analyst Blog Highlights: Merck, Novartis, Mondelez International, ServiceNow and General Dynamics",massive_raw_partner_headlines,2020-03-04,2020-03-04
 2020-03-04 14:39:00,"As Market Stays Choppy, Investors Watch Big Tech Companies Apple, Microsoft For Clues",kaggle_analyst_analyst_ratings_processed.csv,2020-03-04,2020-03-04
-2020-03-04 22:01:00,General Dynamics Adds 10M Shares To Buyback; Raises Qtr. Dividend From $1.02 To $1.10/Share,kaggle_analyst_analyst_ratings_processed.csv,2020-03-04,2020-03-04
-2020-03-05 00:00:00,"Alphabet Inc's Google on Thursday joined Amazon.com Inc, Facebook Inc and Microsoft Corp in recommending employees in the Seattle area to work from home, after many were infected with the coronavirus in the region.",kaggle_financial_news,2020-03-05,2020-03-05
 2020-03-05 00:00:00,The EPAM Cloud Pipeline Released in the Microsoft Azure Marketplace,massive_raw_partner_headlines,2020-03-05,2020-03-05
 2020-03-06 11:36:00,Microsoft To Pay Workers Full Wages Regardless Of Hours Worked During Coronavirus Outbreak,kaggle_analyst_analyst_ratings_processed.csv,2020-03-06,2020-03-06
 2020-03-09 00:00:00,Colgate® Optic White® Teams Up with Multi-Platinum Selling Artist Sheryl Crow to Launch the ...,massive_raw_partner_headlines,2020-03-09,2020-03-09
 2020-03-09 00:00:00,"Zacks.com featured highlights include: Microsoft, ResMed, Maxim Integrated Products and Signature Bank",massive_raw_partner_headlines,2020-03-09,2020-03-09
-2020-03-07 00:00:00,A U.S. judge said Amazon.com Inc  is likely to succeed on a key argument of its challenge to the U.S. Department of Defense's decision to award cloud computing deal worth up to $10 billion to Microsoft Corp.,kaggle_financial_news,2020-03-07,2020-03-09
-2020-03-10 00:00:00,"Thinking about trading options or stock in Alibaba, Clorox, Citrix Systems, Microsoft, or ...",massive_raw_partner_headlines,2020-03-10,2020-03-10
-2020-03-10 00:00:00,Poise® Brand Teams Up with Busy Philipps to Shatter Below-the-Belt Health Stigmas,massive_raw_partner_headlines,2020-03-10,2020-03-10
-2020-03-10 00:00:00,"Dow Jones Futures Fall After Big Market Rally: Apple, Microsoft, Alibaba, Vertex, Netflix Flash Bullish Signal In Coronavirus Stock Market Correction",massive_raw_partner_headlines,2020-03-10,2020-03-10
-2020-03-10 13:55:00,"Dow CFO On Oil Prices Says Impact To Margins Will Depend On Supply-demand Dynamics, Not Oil Price; Says Co.'s Rev Will Go Down But Oil Is Not Necessarily The Only Factor Contributing To Margins",kaggle_analyst_analyst_ratings_processed.csv,2020-03-10,2020-03-10
 2020-03-10 14:27:00,Jedi Wars Between Amazon And Microsoft Are Still Very Much On,kaggle_analyst_analyst_ratings_processed.csv,2020-03-10,2020-03-10
+2020-03-10 13:55:00,"Dow CFO On Oil Prices Says Impact To Margins Will Depend On Supply-demand Dynamics, Not Oil Price; Says Co.'s Rev Will Go Down But Oil Is Not Necessarily The Only Factor Contributing To Margins",kaggle_analyst_analyst_ratings_processed.csv,2020-03-10,2020-03-10
+2020-03-10 00:00:00,"Thinking about trading options or stock in Alibaba, Clorox, Citrix Systems, Microsoft, or ...",massive_raw_partner_headlines,2020-03-10,2020-03-10
+2020-03-10 00:00:00,"Dow Jones Futures Fall After Big Market Rally: Apple, Microsoft, Alibaba, Vertex, Netflix Flash Bullish Signal In Coronavirus Stock Market Correction",massive_raw_partner_headlines,2020-03-10,2020-03-10
+2020-03-10 00:00:00,Poise® Brand Teams Up with Busy Philipps to Shatter Below-the-Belt Health Stigmas,massive_raw_partner_headlines,2020-03-10,2020-03-10
 2020-03-11 00:00:00,RADWARE ADDS NEW MANAGED SECURITY SERVICE POWERED BY MICROSOFT AZURE TO ITS CLOUD PRODUCT PORTFOLIO,massive_raw_partner_headlines,2020-03-11,2020-03-11
 2020-03-11 14:37:00,"As Market Gyrates, Investors Seek Direction From Large Stocks Including Apple, Microsoft",kaggle_analyst_analyst_ratings_processed.csv,2020-03-11,2020-03-11
 2020-03-12 13:34:00,"Sidoti & Co. Upgrades Douglas Dynamics to Buy, Announces $50 Price Target",kaggle_analyst_analyst_ratings_processed.csv,2020-03-12,2020-03-12
-2020-03-13 00:00:00,"Microsoft Corp co-founder Bill Gates, who made the company one of the world's most valuable technology firms, stepped down from the board on Friday to focus on philanthropic works related to global health, education and climate change.",kaggle_financial_news,2020-03-13,2020-03-13
 2020-03-13 00:00:00,"Thinking about trading options or stock in Alphabet, Eli Lilly, Microsoft, Procter & ...",massive_raw_partner_headlines,2020-03-13,2020-03-13
-2020-03-13 00:00:00,"Global downloads of business apps including Tencent Conference, WeChat Work, Zoom, Microsoft Teams and Slack have risen nearly five fold since the start of the year, data showed, as the coronavirus outbreak changes how corporations work.",kaggle_financial_news,2020-03-13,2020-03-13
-2020-03-13 00:00:00,"Days after photographs of broken windows and smashed china hit the newsstands revealing a Christmas Day family squabble in the home of Korean Air's late patriarch, an activist fund received an unsolicited offer to help unseat the current chairman.",kaggle_financial_news,2020-03-13,2020-03-13
 2020-03-13 00:00:00,"Zacks Market Edge Highlights: VOO, VBR, VB, MSFT and AAPL",massive_raw_partner_headlines,2020-03-13,2020-03-13
-2020-03-14 00:00:00,"Warren Buffett's Berkshire Hathaway Inc said on Friday that former American Express Co Chief Executive Officer Kenneth Chenault has been nominated to the conglomerate's board of directors, replacing Microsoft Corp co-founder Bill Gates.",kaggle_financial_news,2020-03-14,2020-03-16
 2020-03-16 00:00:00,"Global Commercial Aircraft Windows And Windshields Market —…—… Newest Industry Data, ...",massive_raw_partner_headlines,2020-03-16,2020-03-16
 2020-03-16 18:41:00,"White House Says Microsoft, Google, Others Make Machine-Readable Database Of Coronavirus Research; Says Database Of 29,000 Scholarly Articles Aimed At Fostering Machine Learning Research",kaggle_analyst_analyst_ratings_processed.csv,2020-03-16,2020-03-16
-2020-03-17 00:00:00,"Service Delivery Platform (SDP) Market : Dynamics, Segments, Size and Demand Analysis during ...",massive_raw_partner_headlines,2020-03-17,2020-03-17
 2020-03-17 00:00:00,New Jira Integration From HubSpot Helps Product and Support Teams Collaborate to Delight Customers,massive_raw_partner_headlines,2020-03-17,2020-03-17
+2020-03-17 00:00:00,"Service Delivery Platform (SDP) Market : Dynamics, Segments, Size and Demand Analysis during ...",massive_raw_partner_headlines,2020-03-17,2020-03-17
+2020-03-18 13:27:00,Douglas Dynamics Earlier Announces Precautionary Temporary Closure Of Its Facilities,kaggle_analyst_analyst_ratings_processed.csv,2020-03-18,2020-03-18
+2020-03-18 22:01:00,Steel Dynamics Sees Q1 EPS $0.83-$0.87 vs $0.66 Estimate,kaggle_analyst_analyst_ratings_processed.csv,2020-03-18,2020-03-18
+2020-03-18 00:00:00,"CLDR, FANG, MSFT, FB and BABA as Zacks Bull and Bear of the Day",massive_raw_partner_headlines,2020-03-18,2020-03-18
 2020-03-18 22:02:00,Steel Dynamics Says Is Still Too Early To Determine Scope Of Negative Impact From Coronavirus,kaggle_analyst_analyst_ratings_processed.csv,2020-03-18,2020-03-18
 2020-03-18 00:00:00,Data Center Services Market Insights Covering Market Dynamics and Competitive Scenario through ...,massive_raw_partner_headlines,2020-03-18,2020-03-18
 2020-03-18 00:00:00,"GOOGL, MSFT & Others to Watch in Fight Against Coronavirus",massive_raw_partner_headlines,2020-03-18,2020-03-18
 2020-03-18 00:00:00,"Global Diabetes Care Devices Market: Dynamics, Segments, Size and Demand Analysis by —…—7",massive_raw_partner_headlines,2020-03-18,2020-03-18
 2020-03-18 00:00:00,Buy Microsoft (MSFT) Stock as a Safe Haven to Combat Coronavirus Volatility?,massive_raw_partner_headlines,2020-03-18,2020-03-18
-2020-03-18 00:00:00,"CLDR, FANG, MSFT, FB and BABA as Zacks Bull and Bear of the Day",massive_raw_partner_headlines,2020-03-18,2020-03-18
-2020-03-18 13:27:00,Douglas Dynamics Earlier Announces Precautionary Temporary Closure Of Its Facilities,kaggle_analyst_analyst_ratings_processed.csv,2020-03-18,2020-03-18
-2020-03-18 22:01:00,Steel Dynamics Sees Q1 EPS $0.83-$0.87 vs $0.66 Estimate,kaggle_analyst_analyst_ratings_processed.csv,2020-03-18,2020-03-18
-2020-03-19 12:06:00,"Credit Suisse Maintains Neutral on Steel Dynamics, Lowers Price Target to $26",kaggle_analyst_analyst_ratings_processed.csv,2020-03-19,2020-03-19
 2020-03-19 00:00:00,Ribbon Boosts Microsoft Alliance With Advanced Call Services,massive_raw_partner_headlines,2020-03-19,2020-03-19
-2020-03-19 00:00:00,"Microsoft Corp's  Teams chat and conferencing app gained more than 12 million daily users in one week, a 37.5% jump as more people worked from home during the coronavirus outbreak,  the company said on Thursday.",kaggle_financial_news,2020-03-19,2020-03-19
-2020-03-20 00:00:00,"The Zacks Analyst Blog Highlights: Microsoft, HP, Garmin, Applied Materials and eBay",massive_raw_partner_headlines,2020-03-20,2020-03-20
+2020-03-19 12:06:00,"Credit Suisse Maintains Neutral on Steel Dynamics, Lowers Price Target to $26",kaggle_analyst_analyst_ratings_processed.csv,2020-03-19,2020-03-19
 2020-03-20 00:00:00,"Zacks Value Trader Highlights: Applied Materials, Garmin, InMode, Microsoft and Synaptics",massive_raw_partner_headlines,2020-03-20,2020-03-20
 2020-03-20 00:00:00,Adaptive Biotechnologies and Microsoft expand partnership to decode COVID-–9 immune response ...,massive_raw_partner_headlines,2020-03-20,2020-03-20
-2020-03-20 09:38:00,Microsoft Teams Adds 12M Customers In A Week As Coronavirus Forces Remote Work Boom,kaggle_analyst_analyst_ratings_processed.csv,2020-03-20,2020-03-20
+2020-03-20 00:00:00,"The Zacks Analyst Blog Highlights: Microsoft, HP, Garmin, Applied Materials and eBay",massive_raw_partner_headlines,2020-03-20,2020-03-20
 2020-03-20 17:06:00,Adaptive Biotechnologies And Microsoft To Expand Partnership 'mapping population-wide adaptive immune responses to diseases at scale to study' Coronavirus,kaggle_analyst_analyst_ratings_processed.csv,2020-03-20,2020-03-20
+2020-03-20 09:38:00,Microsoft Teams Adds 12M Customers In A Week As Coronavirus Forces Remote Work Boom,kaggle_analyst_analyst_ratings_processed.csv,2020-03-20,2020-03-20
 2020-03-23 13:29:00,"General Dynamics 8-K Shows Extension For 2 Credit Facilities: $2B Facility Now Expires Mar. '21, $1B Multi-Year Facility Now Expires Mar. '25",kaggle_analyst_analyst_ratings_processed.csv,2020-03-23,2020-03-23
-2020-03-23 13:27:00,General Dynamics 8-K Shows Warning Its Business Could Be Negatively Impacted By Coronavirus Or Other Similar Outbreaks,kaggle_analyst_analyst_ratings_processed.csv,2020-03-23,2020-03-23
-2020-03-23 12:44:00,Marrone Bio Reports Its Jet-Oxide 15% Sanitizer Product Is Allowed By US EPA For Use On Industrial Hard Surfaces For Human Coronaviruses,kaggle_analyst_analyst_ratings_processed.csv,2020-03-23,2020-03-23
+2020-03-23 00:00:00,net—phone Offers Free Global Calling for Microsoft Teams,massive_raw_partner_headlines,2020-03-23,2020-03-23
 2020-03-23 00:00:00,"The Zacks Analyst Blog Highlights: Microsoft, salesforce.com, Novo Nordisk, American Express and Fiserv",massive_raw_partner_headlines,2020-03-23,2020-03-23
 2020-03-23 00:00:00,"Microsoft, Adaptive Biotech Collaborate to Fight COVID-19",massive_raw_partner_headlines,2020-03-23,2020-03-23
 2020-03-23 00:00:00,"Microsoft, Amazon Among 4 Stocks Resisting Coronavirus Stock Market Crash",massive_raw_partner_headlines,2020-03-23,2020-03-23
-2020-03-23 00:00:00,net—phone Offers Free Global Calling for Microsoft Teams,massive_raw_partner_headlines,2020-03-23,2020-03-23
+2020-03-23 12:44:00,Marrone Bio Reports Its Jet-Oxide 15% Sanitizer Product Is Allowed By US EPA For Use On Industrial Hard Surfaces For Human Coronaviruses,kaggle_analyst_analyst_ratings_processed.csv,2020-03-23,2020-03-23
+2020-03-23 13:27:00,General Dynamics 8-K Shows Warning Its Business Could Be Negatively Impacted By Coronavirus Or Other Similar Outbreaks,kaggle_analyst_analyst_ratings_processed.csv,2020-03-23,2020-03-23
 2020-03-24 14:32:00,"Morgan Stanley Maintains Underweight on General Dynamics, Lowers Price Target to $146",kaggle_analyst_analyst_ratings_processed.csv,2020-03-24,2020-03-24
-2020-03-24 00:00:00,"The Zacks Analyst Blog Highlights: Carnival, Macy???s, Microsoft, Alibaba and Sea",massive_raw_partner_headlines,2020-03-24,2020-03-24
 2020-03-24 09:10:00,"KeyBanc Upgrades Steel Dynamics to Overweight, Announces $23 Price Target",kaggle_analyst_analyst_ratings_processed.csv,2020-03-24,2020-03-24
-2020-03-25 19:24:00,"Apple's Tim Cook Says Has Been Able To 'Source 10M masks for the US and millions more' For Regions In Europe, Says ' Our ops teams are helping to find and purchase masks from our supply chain in coordination with governments around the world.'",kaggle_analyst_analyst_ratings_processed.csv,2020-03-25,2020-03-25
-2020-03-25 07:13:00,"Microsoft, Facebook, Twitter Partner With WHO To Launch Coronavirus Hackathon",kaggle_analyst_analyst_ratings_processed.csv,2020-03-25,2020-03-25
+2020-03-24 00:00:00,"The Zacks Analyst Blog Highlights: Carnival, Macy???s, Microsoft, Alibaba and Sea",massive_raw_partner_headlines,2020-03-24,2020-03-24
 2020-03-25 00:00:00,AngioDynamics (ANGO) Upgraded to Buy: Here's What You Should Know,massive_raw_partner_headlines,2020-03-25,2020-03-25
 2020-03-25 00:00:00,BroadVision and Vmoso Announce Free Alternative Solution to Microsoft Teams and Slack,massive_raw_partner_headlines,2020-03-25,2020-03-25
-2020-03-26 00:00:00,AMD's Processors to Power Microsoft Azure Virtual Machines,massive_raw_partner_headlines,2020-03-26,2020-03-26
+2020-03-25 07:13:00,"Microsoft, Facebook, Twitter Partner With WHO To Launch Coronavirus Hackathon",kaggle_analyst_analyst_ratings_processed.csv,2020-03-25,2020-03-25
+2020-03-25 19:24:00,"Apple's Tim Cook Says Has Been Able To 'Source 10M masks for the US and millions more' For Regions In Europe, Says ' Our ops teams are helping to find and purchase masks from our supply chain in coordination with governments around the world.'",kaggle_analyst_analyst_ratings_processed.csv,2020-03-25,2020-03-25
 2020-03-26 00:00:00,"Global Leader, Microsoft Rival Tests All-Time High Despite Coronavirus Crash",massive_raw_partner_headlines,2020-03-26,2020-03-26
-2020-03-27 00:00:00,Ratings agency Standard & Poors placed Airbus  on its watch list for a possible downgrade as doubts surfaced over the future level of aircraft deliveries and advance payments from airlines battered by the coronavirus crisis.,kaggle_financial_news,2020-03-27,2020-03-27
+2020-03-26 00:00:00,AMD's Processors to Power Microsoft Azure Virtual Machines,massive_raw_partner_headlines,2020-03-26,2020-03-26
 2020-03-27 00:00:00,Slack To Integrate With Microsoft Teams For Cross-Platform Calls,massive_raw_partner_headlines,2020-03-27,2020-03-27
 2020-03-27 00:00:00,Amazon Teams Up With Conduent to Control Coronavirus Spread,massive_raw_partner_headlines,2020-03-27,2020-03-27
-2020-03-27 00:00:00,"Wall Street stocks tumbled on Friday, ending a massive three-day surge after doubts about the fate of the U.S. economy resurfaced and the number of coronavirus cases in the country climbed.",kaggle_financial_news,2020-03-27,2020-03-27
 2020-03-30 00:00:00,"Artificial Intelligence Market Future Outlook | Microsoft Corporation, Amazon Web Services, ...",massive_raw_partner_headlines,2020-03-30,2020-03-30
-2020-03-30 00:00:00,"The number of people using Microsoft's Skype video calling system has surged by 70% in a month to 40 million people presently, as more individuals stay home due to the coronavirus outbreak, the company said on Monday.",kaggle_financial_news,2020-03-30,2020-03-30
-2020-03-30 00:00:00,"American Express Co  will avoid job cuts in 2020 as the credit card issuer ""rides out the storm"" brought on by the coronavirus pandemic, Chief Executive Officer Steve Squeri said in a video message to employees on LinkedIn.",kaggle_financial_news,2020-03-30,2020-03-30
 2020-03-30 00:00:00,"Poly Supercharges Microsoft Teams Experience with UC Headsets for Smart, Simple Collaboration",massive_raw_partner_headlines,2020-03-30,2020-03-30
+2020-03-30 19:16:00,"Demand for cloud computing services has spiked during the coronavirus outbreak and Microsoft has been a ""huge beneficiary from the lockdowns,"" the ""Mad Money"" host said.",kaggle_financial_news,2020-03-30,2020-03-30
 2020-03-30 20:19:00,Gap Says Anticipates Store Closures To Extend Past Apr. 1; Co. To Furlough Majority Of US And Canada Store Teams,kaggle_analyst_analyst_ratings_processed.csv,2020-03-30,2020-03-30
-2020-03-31 00:00:00,"Dow Jones Futures: Stock Market Rally Pauses As Coronavirus Cases Soar; Amazon, Microsoft Lead Tech Giants Setting Up",massive_raw_partner_headlines,2020-03-31,2020-03-31
-2020-03-31 00:00:00,Earnings Preview: AngioDynamics (ANGO) Q3 Earnings Expected to Decline,massive_raw_partner_headlines,2020-03-31,2020-03-31
+2020-03-30 20:31:00,"Abbott Labs teams are working around the clock to ramp up COVID-19 tests and to develop more diagnosis products, outgoing CEO Miles White said.",kaggle_financial_news,2020-03-30,2020-03-30
 2020-03-31 09:21:00,Microsoft Shares Jump 8.5% As Company Reports Massive Increase In Teams Usage,kaggle_analyst_analyst_ratings_processed.csv,2020-03-31,2020-03-31
-2020-03-31 00:00:00,"Microsoft Corp  said it has seen a 775% jump in a month for Teams calling and meeting in Italy, withdrawing an earlier statement that the surge was for its cloud services in regions around the world that enforced social distancing to curb transmission of the coronavirus.",kaggle_financial_news,2020-03-31,2020-03-31
-2020-03-31 00:00:00,Microsoft Shines Bright in Coronavirus Gloom,massive_raw_partner_headlines,2020-03-31,2020-03-31
+2020-03-31 00:00:00,Earnings Preview: AngioDynamics (ANGO) Q3 Earnings Expected to Decline,massive_raw_partner_headlines,2020-03-31,2020-03-31
 2020-03-31 18:40:00,"Option Traders Make Massive Multimillion Dollar Bets On Nvidia, Microsoft",kaggle_analyst_analyst_ratings_processed.csv,2020-03-31,2020-03-31
+2020-03-31 00:00:00,Microsoft Shines Bright in Coronavirus Gloom,massive_raw_partner_headlines,2020-03-31,2020-03-31
+2020-03-31 00:00:00,"Dow Jones Futures: Stock Market Rally Pauses As Coronavirus Cases Soar; Amazon, Microsoft Lead Tech Giants Setting Up",massive_raw_partner_headlines,2020-03-31,2020-03-31
 2020-04-01 00:00:00,"The Zacks Analyst Blog Highlights: UBER, ZM, MSFT, STZ and CGC",massive_raw_partner_headlines,2020-04-01,2020-04-01
-2020-04-01 00:00:00,"Multi-strategy hedge funds - those that bet on a broad array of markets using teams of traders, leverage and centralized risk management - have flourished as stocks ended their worst three months since the 2008 financial crisis.",kaggle_financial_news,2020-04-01,2020-04-01
-2020-04-01 00:00:00,"Zoom Video Communications Inc's  average mobile user numbers in March were nearly three times that of its nearest rival Microsoft Corp's  Teams, according to research firm Apptopia, as the cornonavirus-driven stay-at-home lifted demand for video conferencing applications.",kaggle_financial_news,2020-04-01,2020-04-01
-2020-04-01 00:00:00,"1-800-FLOWERS, Crocs, Microsoft, Avid and American Software as Zacks Bull and Bear of the Day",massive_raw_partner_headlines,2020-04-01,2020-04-01
 2020-04-01 00:00:00,"Bath Savings Trust Co Buys General Dynamics Corp, Columbia Sportswear Co, The Toronto-Dominion ...",massive_raw_partner_headlines,2020-04-01,2020-04-01
+2020-04-01 00:00:00,"1-800-FLOWERS, Crocs, Microsoft, Avid and American Software as Zacks Bull and Bear of the Day",massive_raw_partner_headlines,2020-04-01,2020-04-01
 2020-04-02 13:09:00,LogMeIn Reports Its GoToMeeting Will Be Integrated Into Microsoft Teams,kaggle_analyst_analyst_ratings_processed.csv,2020-04-02,2020-04-02
-2020-04-03 00:00:00,Scott® Brand Teams Up with Boys & Girls Clubs of America to Provide Childcare for Families ...,massive_raw_partner_headlines,2020-04-03,2020-04-03
 2020-04-03 00:00:00,Don't Go Dark: Business Leaders from Around the World See Record Engagement on LinkedIn During ...,massive_raw_partner_headlines,2020-04-03,2020-04-03
-2020-04-03 00:00:00,"Gantzert Investment Co Llc Buys General Dynamics Corp, Essential Utilities Inc, Sells 'M Co, ...",massive_raw_partner_headlines,2020-04-03,2020-04-03
 2020-04-03 00:00:00,"Global Rogue Base Station (RBS) Market segments and sub-segments, Market trends and dynamics, ...",massive_raw_partner_headlines,2020-04-03,2020-04-03
+2020-04-03 00:00:00,Scott® Brand Teams Up with Boys & Girls Clubs of America to Provide Childcare for Families ...,massive_raw_partner_headlines,2020-04-03,2020-04-03
+2020-04-03 00:00:00,"Gantzert Investment Co Llc Buys General Dynamics Corp, Essential Utilities Inc, Sells 'M Co, ...",massive_raw_partner_headlines,2020-04-03,2020-04-03
 2020-04-03 19:35:00,PS5 Vs. Xbox Series X: Tech Alone Won't Crown A Winner,kaggle_analyst_analyst_ratings_processed.csv,2020-04-03,2020-04-03
 2020-04-06 14:01:00,"Rite Aid Reports Plans To Hire 5K Associates For Full-, Part-Time Roles To Support Store, Distribution Center Teams",kaggle_analyst_analyst_ratings_processed.csv,2020-04-06,2020-04-06
 2020-04-06 00:00:00,"Zacks Investment Ideas feature highlights: Twilio, Splunk, Amazon, Adobe and Microsoft",massive_raw_partner_headlines,2020-04-06,2020-04-06
 2020-04-04 17:54:00,"Bulls And Bears Of The Week: Amazon, Boeing, Microsoft, Twitter And More",kaggle_analyst_analyst_ratings_processed.csv,2020-04-04,2020-04-06
 2020-04-06 00:00:00,Why General Dynamics (GD) is a Great Dividend Stock Right Now,massive_raw_partner_headlines,2020-04-06,2020-04-06
-2020-04-07 00:00:00,"BlackRock Inc, the world's largest asset manager, has partnered with Microsoft Corp to have its Aladdin investment and risk management system hosted on the Microsoft Azure cloud platform, the companies said on Tuesday.",kaggle_financial_news,2020-04-07,2020-04-07
 2020-04-07 00:00:00,"Lgt Capital Partners Ltd. Buys Microsoft Corp, Stryker Corp, The Estee Lauder Inc, Sells ...",massive_raw_partner_headlines,2020-04-07,2020-04-07
 2020-04-07 09:22:00,Microsoft Hires ex-Apple Exec Caballero in Charge of Wireless for Hardware,kaggle_analyst_analyst_ratings_processed.csv,2020-04-07,2020-04-07
 2020-04-07 11:12:00,"AngioDynamics Q3 EPS $0.01 Beats $(0.03) Estimate, Sales $69.78M Beat $68.55M Estimate",kaggle_analyst_analyst_ratings_processed.csv,2020-04-07,2020-04-07
@@ -337,277 +309,263 @@ date,headline,source,date_day,trading_date
 2020-04-07 16:50:00,Microsoft's Focus On The Cloud Makes It A Prime Recovery Candidate,kaggle_analyst_analyst_ratings_processed.csv,2020-04-07,2020-04-07
 2020-04-08 09:00:00,KeyBanc Downgrades AngioDynamics to Sector Weight,kaggle_analyst_analyst_ratings_processed.csv,2020-04-08,2020-04-08
 2020-04-08 16:03:00,"Canaccord Genuity Maintains Hold on AngioDynamics, Lowers Price Target to $14",kaggle_analyst_analyst_ratings_processed.csv,2020-04-08,2020-04-08
-2020-04-08 00:00:00,"Modus Advisors, LLC Buys PowerShares QQQ Trust Ser –, JPMorgan Ultra-Short Income, Microsoft ...",massive_raw_partner_headlines,2020-04-08,2020-04-08
+2020-04-08 00:00:00,"Coronavirus Stock Market Rally: Dow Jones Gains 300 Points, As U.S. Virus Cases Top 400,000; Apple, Microsoft Key Gainers",massive_raw_partner_headlines,2020-04-08,2020-04-08
 2020-04-08 00:00:00,"Dow Jones Futures: Coronavirus Stock Market Rally Lacks Two Key Qualities; Analyzing Apple, Amazon, Microsoft, Dexcom, Nvidia, Costco",massive_raw_partner_headlines,2020-04-08,2020-04-08
 2020-04-08 00:00:00,Ameriprise Financial Welcomes Two Teams from Wells Fargo and UBS with $—86 Million in Assets,massive_raw_partner_headlines,2020-04-08,2020-04-08
 2020-04-08 00:00:00,Microsoft (MSFT) Azure Adopted by Blackrock to Host Platform,massive_raw_partner_headlines,2020-04-08,2020-04-08
-2020-04-08 00:00:00,"Coronavirus Stock Market Rally: Dow Jones Gains 300 Points, As U.S. Virus Cases Top 400,000; Apple, Microsoft Key Gainers",massive_raw_partner_headlines,2020-04-08,2020-04-08
+2020-04-08 00:00:00,"Modus Advisors, LLC Buys PowerShares QQQ Trust Ser –, JPMorgan Ultra-Short Income, Microsoft ...",massive_raw_partner_headlines,2020-04-08,2020-04-08
 2020-04-09 00:00:00,"Thinking about trading options or stock in Walt Disney, Microsoft, Pfizer, Wynn Resorts, or ...",massive_raw_partner_headlines,2020-04-09,2020-04-09
-2020-04-09 00:00:00,Microsoft Postpones Launch Of Dual-Screen Surface Neo Device: Report,massive_raw_partner_headlines,2020-04-09,2020-04-09
-2020-04-09 00:00:00,General Dynamics to Webcast —…—… First-Quarter Financial Results Conference Call,massive_raw_partner_headlines,2020-04-09,2020-04-09
 2020-04-09 00:00:00,"Provenire Capital, LLC Buys Mastercard Inc, Splunk Inc, Apple Inc, Sells Microsoft Corp, Visa ...",massive_raw_partner_headlines,2020-04-09,2020-04-09
+2020-04-09 00:00:00,General Dynamics to Webcast —…—… First-Quarter Financial Results Conference Call,massive_raw_partner_headlines,2020-04-09,2020-04-09
+2020-04-09 00:00:00,Microsoft Postpones Launch Of Dual-Screen Surface Neo Device: Report,massive_raw_partner_headlines,2020-04-09,2020-04-09
 2020-04-12 00:00:00,"Dow Jones Futures: Coronavirus Stock Market Rally Awaits OPEC+ Production Deal; Microsoft, Netflix, Nvidia, Veeva, MSCI, Gilead, Apple Supplier Lumentum In FocusS",massive_raw_partner_headlines,2020-04-12,2020-04-13
-2020-04-13 00:00:00,"Capital Investment Advisors, LLC Buys iShares Core Dividend Growth, Microsoft Corp, Johnson ...",massive_raw_partner_headlines,2020-04-13,2020-04-13
-2020-04-13 00:00:00,Tredegar's Surface Protection Films Play Key Role in Personal Protective Equipment During ...,massive_raw_partner_headlines,2020-04-13,2020-04-13
 2020-04-13 00:00:00,"Tradeweb Markets, Booking, Anaplan, CrowdStrike and Microsoft highlighted as Zacks Bull and Bear of the Day",massive_raw_partner_headlines,2020-04-13,2020-04-13
 2020-04-13 00:00:00,General Dynamics Wins $56M Deal to Manufacture Missile Tubes,massive_raw_partner_headlines,2020-04-13,2020-04-13
+2020-04-13 00:00:00,Tredegar's Surface Protection Films Play Key Role in Personal Protective Equipment During ...,massive_raw_partner_headlines,2020-04-13,2020-04-13
+2020-04-13 00:00:00,"Capital Investment Advisors, LLC Buys iShares Core Dividend Growth, Microsoft Corp, Johnson ...",massive_raw_partner_headlines,2020-04-13,2020-04-13
 2020-04-14 14:27:00,"Morgan Stanley Maintains Underweight on General Dynamics, Raises Price Target to $151",kaggle_analyst_analyst_ratings_processed.csv,2020-04-14,2020-04-14
 2020-04-14 00:00:00,"Delta Capital Management Llc Buys The Home Depot Inc, Microsoft Corp, Pfizer Inc, Sells ...",massive_raw_partner_headlines,2020-04-14,2020-04-14
 2020-04-14 00:00:00,"Asset Management Corp Buys SPDR S&P 5……, Microsoft Corp, Las Vegas Sands Corp, Sells ...",massive_raw_partner_headlines,2020-04-14,2020-04-14
 2020-04-15 00:00:00,3M Teams Up With Cummins to Increase Filter Output for PAPRs,massive_raw_partner_headlines,2020-04-15,2020-04-15
-2020-04-15 00:00:00,"Pacifica Partners Inc. Buys General Dynamics Corp, Johnson & Johnson, CVS Health Corp, ...",massive_raw_partner_headlines,2020-04-15,2020-04-15
 2020-04-15 00:00:00,"Top Stock Reports for Microsoft, Walmart & Amgen",massive_raw_partner_headlines,2020-04-15,2020-04-15
-2020-04-16 12:04:00,Kratos Wins Place On US Navy Unmanned Surface Vehicle Family Of Systems in $982.1M IDIQ Multiple Award Contract,kaggle_analyst_analyst_ratings_processed.csv,2020-04-16,2020-04-16
-2020-04-16 00:00:00,"The Pentagon's inspector general on Wednesday said it could not determine whether the White House influenced the award of a $10 billion contract to Microsoft Corp  over Amazon  after several officials said their conversations were privileged ""presidential communications.""",kaggle_financial_news,2020-04-16,2020-04-16
-2020-04-16 00:00:00,"Bristlecone Advisors, LLC Buys SPDR Select Sector Fund - Energy Select Sector, Microsoft Corp, ...",massive_raw_partner_headlines,2020-04-16,2020-04-16
-2020-04-16 00:00:00,General Dynamics to Hold Annual Meeting of Shareholders in Virtual Format,massive_raw_partner_headlines,2020-04-16,2020-04-16
-2020-04-16 00:00:00,Douglas Dynamics to Provide Teleconference and Webcast of —…—… Annual Meeting,massive_raw_partner_headlines,2020-04-16,2020-04-16
+2020-04-15 00:00:00,"Pacifica Partners Inc. Buys General Dynamics Corp, Johnson & Johnson, CVS Health Corp, ...",massive_raw_partner_headlines,2020-04-15,2020-04-15
 2020-04-16 00:00:00,Microsoft (MSFT) Partners GE Healthcare to Fight Coronavirus,massive_raw_partner_headlines,2020-04-16,2020-04-16
-2020-04-16 00:00:00,"Trust Co Of Toledo Na Buys Xilinx Inc, Truist Financial Corp, General Dynamics Corp, Sells ...",massive_raw_partner_headlines,2020-04-16,2020-04-16
+2020-04-16 00:00:00,General Dynamics to Hold Annual Meeting of Shareholders in Virtual Format,massive_raw_partner_headlines,2020-04-16,2020-04-16
+2020-04-16 00:00:00,"Bristlecone Advisors, LLC Buys SPDR Select Sector Fund - Energy Select Sector, Microsoft Corp, ...",massive_raw_partner_headlines,2020-04-16,2020-04-16
+2020-04-16 00:00:00,Douglas Dynamics to Provide Teleconference and Webcast of —…—… Annual Meeting,massive_raw_partner_headlines,2020-04-16,2020-04-16
 2020-04-16 00:00:00,"Sippican Capital Adivsors Buys Cisco Systems Inc, Microsoft Corp, Weyerhaeuser Co, Sells BOK ...",massive_raw_partner_headlines,2020-04-16,2020-04-16
+2020-04-16 00:00:00,"Trust Co Of Toledo Na Buys Xilinx Inc, Truist Financial Corp, General Dynamics Corp, Sells ...",massive_raw_partner_headlines,2020-04-16,2020-04-16
+2020-04-16 12:04:00,Kratos Wins Place On US Navy Unmanned Surface Vehicle Family Of Systems in $982.1M IDIQ Multiple Award Contract,kaggle_analyst_analyst_ratings_processed.csv,2020-04-16,2020-04-16
 2020-04-17 00:00:00,"Assenagon Asset Management S.A. Buys The Walt Disney Co, Microsoft Corp, Booking Holdings Inc, ...",massive_raw_partner_headlines,2020-04-17,2020-04-17
 2020-04-17 00:00:00,"Zacks Investment Ideas feature highlights: SPY, Microsoft, Alibaba, Adobe and Nvidia",massive_raw_partner_headlines,2020-04-17,2020-04-17
 2020-04-17 14:59:00,"JP Morgan Maintains Overweight on Steel Dynamics, Lowers Price Target to $28",kaggle_analyst_analyst_ratings_processed.csv,2020-04-17,2020-04-17
-2020-04-20 00:00:00,"DaVita Helps Protect Patients, Physicians and Care Teams with Heightened Mask Protocol",massive_raw_partner_headlines,2020-04-20,2020-04-20
-2020-04-20 00:00:00,"Palmer Knight Co Buys Microsoft Corp, Honeywell International Inc, The Walt Disney Co, Sells ...",massive_raw_partner_headlines,2020-04-20,2020-04-20
-2020-04-20 22:01:00,"Steel Dynamics Q1 EPS $0.880 Beats $0.790 Estimate, Sales $2.575B Beat $2.560B Estimate",kaggle_analyst_analyst_ratings_processed.csv,2020-04-20,2020-04-20
 2020-04-20 00:00:00,"Hendershot Investments Inc. Buys Automatic Data Processing Inc, Paychex Inc, General Dynamics ...",massive_raw_partner_headlines,2020-04-20,2020-04-20
-2020-04-20 00:00:00,"Horizon Bancorp Inc Buys Microsoft Corp, Humana Inc, Leidos Holdings Inc, Sells AMETEK Inc, ...",massive_raw_partner_headlines,2020-04-20,2020-04-20
-2020-04-20 00:00:00,"Founders Capital Management, Llc Buys Stanley Black & Decker Inc, General Dynamics Corp, ...",massive_raw_partner_headlines,2020-04-20,2020-04-20
+2020-04-20 22:01:00,"Steel Dynamics Q1 EPS $0.880 Beats $0.790 Estimate, Sales $2.575B Beat $2.560B Estimate",kaggle_analyst_analyst_ratings_processed.csv,2020-04-20,2020-04-20
 2020-04-20 00:00:00,"WealthBridge Investment Counsel Inc. Buys Microsoft Corp, Sells Boeing Co, iShares MSCI ...",massive_raw_partner_headlines,2020-04-20,2020-04-20
+2020-04-20 00:00:00,"Horizon Bancorp Inc Buys Microsoft Corp, Humana Inc, Leidos Holdings Inc, Sells AMETEK Inc, ...",massive_raw_partner_headlines,2020-04-20,2020-04-20
+2020-04-20 00:00:00,"Palmer Knight Co Buys Microsoft Corp, Honeywell International Inc, The Walt Disney Co, Sells ...",massive_raw_partner_headlines,2020-04-20,2020-04-20
+2020-04-20 00:00:00,"DaVita Helps Protect Patients, Physicians and Care Teams with Heightened Mask Protocol",massive_raw_partner_headlines,2020-04-20,2020-04-20
 2020-04-19 16:56:00,"Bulls And Bears Of The Week: Caterpillar, Facebook, Microsoft And More",kaggle_analyst_analyst_ratings_processed.csv,2020-04-19,2020-04-20
-2020-04-19 00:00:00,"Facebook Inc  is planning to launch a gaming mobile app on Monday focused mainly on live game streaming in a bid to take on Amazon.com Inc's  Twitch, Google's  YouTube and Microsoft Corp's  Mixer services, the New York Times reported on Sunday.",kaggle_financial_news,2020-04-19,2020-04-20
-2020-04-18 00:00:00,A U.S. judge on Friday put on hold a suit by Amazon.com Inc  challenging the Pentagon's decision to award a $10 billion contract to Microsoft Corp .,kaggle_financial_news,2020-04-18,2020-04-20
-2020-04-21 00:00:00,"RPG Investment Advisory, LLC Buys Microsoft Corp, Target Corp, The Kraft Heinz Co, Sells Square ...",massive_raw_partner_headlines,2020-04-21,2020-04-21
-2020-04-21 00:00:00,"IBM, Intel, Microsoft Lead Dow Jones Sell-Off; Is The Coronavirus Stock Market Rally In Trouble?",massive_raw_partner_headlines,2020-04-21,2020-04-21
-2020-04-21 00:00:00,Steel Dynamics' (STLD) Earnings and Sales Top Estimates in Q1,massive_raw_partner_headlines,2020-04-21,2020-04-21
+2020-04-20 00:00:00,"Founders Capital Management, Llc Buys Stanley Black & Decker Inc, General Dynamics Corp, ...",massive_raw_partner_headlines,2020-04-20,2020-04-20
+2020-04-21 14:50:00,From Steel Dynamics Earnings Conference Call: Sees Scrap Pricing Stable In Next Month Or 2,kaggle_analyst_analyst_ratings_processed.csv,2020-04-21,2020-04-21
 2020-04-21 00:00:00,"Dow Jones Gets Slammed As Apple, Microsoft Weigh, But Nasdaq Fares Worse",massive_raw_partner_headlines,2020-04-21,2020-04-21
-2020-04-21 00:00:00,"Hamilton Wealth, LLC Buys Vanguard Financials, Microsoft Corp, ProShares Short S&P5……, ...",massive_raw_partner_headlines,2020-04-21,2020-04-21
+2020-04-21 00:00:00,"IBM, Intel, Microsoft Lead Dow Jones Sell-Off; Is The Coronavirus Stock Market Rally In Trouble?",massive_raw_partner_headlines,2020-04-21,2020-04-21
+2020-04-21 00:00:00,"RPG Investment Advisory, LLC Buys Microsoft Corp, Target Corp, The Kraft Heinz Co, Sells Square ...",massive_raw_partner_headlines,2020-04-21,2020-04-21
+2020-04-21 00:00:00,Steel Dynamics' (STLD) Earnings and Sales Top Estimates in Q1,massive_raw_partner_headlines,2020-04-21,2020-04-21
 2020-04-21 00:00:00,"West Coast Financial LLC Buys Microsoft Corp, Facebook Inc, Align Technology Inc, Sells Charles ...",massive_raw_partner_headlines,2020-04-21,2020-04-21
 2020-04-21 00:00:00,"Oliver Luxxe Assets LLC Buys Microsoft Corp, Bristol-Myers Squibb Company, Morgan Stanley, ...",massive_raw_partner_headlines,2020-04-21,2020-04-21
+2020-04-21 00:00:00,"Hamilton Wealth, LLC Buys Vanguard Financials, Microsoft Corp, ProShares Short S&P5……, ...",massive_raw_partner_headlines,2020-04-21,2020-04-21
 2020-04-21 00:00:00,"The Zacks Analyst Blog Highlights: Southwest Airlines, Magellan Petroleum, Murphy USA, Par Pacific and Azure Power Global",massive_raw_partner_headlines,2020-04-21,2020-04-21
 2020-04-21 00:49:00,Recap: Steel Dynamics Q1 Earnings,kaggle_analyst_analyst_ratings_processed.csv,2020-04-21,2020-04-21
-2020-04-21 14:50:00,From Steel Dynamics Earnings Conference Call: Sees Scrap Pricing Stable In Next Month Or 2,kaggle_analyst_analyst_ratings_processed.csv,2020-04-21,2020-04-21
 2020-04-21 14:50:00,"From Steel Dynamics Earnings Conference Call: Orders, Inquiry Rate 'Still Pretty Strong'",kaggle_analyst_analyst_ratings_processed.csv,2020-04-21,2020-04-21
 2020-04-22 10:20:00,"KeyBanc Maintains Overweight on Steel Dynamics, Raises Price Target to $25",kaggle_analyst_analyst_ratings_processed.csv,2020-04-22,2020-04-22
-2020-04-22 00:00:00,"Usca Ria Llc Buys Apple Inc, Microsoft Corp, Amazon.com Inc, Sells iShares Core U.S. ...",massive_raw_partner_headlines,2020-04-22,2020-04-22
-2020-04-22 12:31:00,"Credit Suisse Maintains Neutral on Steel Dynamics, Lowers Price Target to $22",kaggle_analyst_analyst_ratings_processed.csv,2020-04-22,2020-04-22
 2020-04-22 00:00:00,General Dynamics (GD) Earnings Expected to Grow: What to Know Ahead of Next Week's Release,massive_raw_partner_headlines,2020-04-22,2020-04-22
-2020-04-22 00:00:00,"Covenant Asset Management, LLC Buys Microsoft Corp, TransUnion, Boeing Co, Sells Palo Alto ...",massive_raw_partner_headlines,2020-04-22,2020-04-22
-2020-04-22 00:00:00,"Dow Jones Futures: Coronavirus Stock Market Rally Powers Back; Apple, AMD, Tesla, Intel, Microsoft Near Buy Points, But Watch Out For This",massive_raw_partner_headlines,2020-04-22,2020-04-22
-2020-04-22 00:00:00,"Exane Asset Management Buys UBS Group AG, Activision Blizzard Inc, Microsoft Corp, Sells ...",massive_raw_partner_headlines,2020-04-22,2020-04-22
-2020-04-22 00:00:00,"Hanlon Investment Management, Inc. Buys ishares Gold Trust, Microsoft Corp, SPDR S&P ...",massive_raw_partner_headlines,2020-04-22,2020-04-22
+2020-04-22 12:31:00,"Credit Suisse Maintains Neutral on Steel Dynamics, Lowers Price Target to $22",kaggle_analyst_analyst_ratings_processed.csv,2020-04-22,2020-04-22
 2020-04-22 00:00:00,General Dynamics (GD) is a Top Dividend Stock Right Now: Should You Buy?,massive_raw_partner_headlines,2020-04-22,2020-04-22
+2020-04-22 00:00:00,"Dow Jones Futures: Coronavirus Stock Market Rally Powers Back; Apple, AMD, Tesla, Intel, Microsoft Near Buy Points, But Watch Out For This",massive_raw_partner_headlines,2020-04-22,2020-04-22
+2020-04-22 00:00:00,"Hanlon Investment Management, Inc. Buys ishares Gold Trust, Microsoft Corp, SPDR S&P ...",massive_raw_partner_headlines,2020-04-22,2020-04-22
+2020-04-22 00:00:00,"Exane Asset Management Buys UBS Group AG, Activision Blizzard Inc, Microsoft Corp, Sells ...",massive_raw_partner_headlines,2020-04-22,2020-04-22
+2020-04-22 00:00:00,"Covenant Asset Management, LLC Buys Microsoft Corp, TransUnion, Boeing Co, Sells Palo Alto ...",massive_raw_partner_headlines,2020-04-22,2020-04-22
+2020-04-22 00:00:00,"Usca Ria Llc Buys Apple Inc, Microsoft Corp, Amazon.com Inc, Sells iShares Core U.S. ...",massive_raw_partner_headlines,2020-04-22,2020-04-22
 2020-04-23 00:00:00,"Pacer Advisors, Inc. Buys Microsoft Corp, Apple Inc, Amazon. ...",massive_raw_partner_headlines,2020-04-23,2020-04-23
+2020-04-23 00:00:00,"Van Leeuwen & Company, LLC Buys UnitedHealth Group Inc, Microsoft Corp, SPDR S&P ...",massive_raw_partner_headlines,2020-04-23,2020-04-23
+2020-04-23 00:00:00,3 Blue-Chip Tech Stocks to Buy Right Now Not Named Apple or Microsoft,massive_raw_partner_headlines,2020-04-23,2020-04-23
+2020-04-23 00:00:00,"Sadoff Investment Management Llc Buys SPDR S&P 5……, Boeing Co, Microsoft Corp, Sells ...",massive_raw_partner_headlines,2020-04-23,2020-04-23
+2020-04-23 00:00:00,"Exeter Financial, LLC Buys First Trust Enhanced Equity Income Fund, General Dynamics Corp, ...",massive_raw_partner_headlines,2020-04-23,2020-04-23
 2020-04-23 00:00:00,"Accuvest Global Advisors Buys PowerShares QQQ Trust Ser –, Nike Inc, Microsoft Corp, Sells ...",massive_raw_partner_headlines,2020-04-23,2020-04-23
 2020-04-23 00:00:00,"Anderson Hoagland & Co Buys Vanguard Total Stock Market, Microsoft Corp, Alibaba Group ...",massive_raw_partner_headlines,2020-04-23,2020-04-23
-2020-04-23 00:00:00,"Exeter Financial, LLC Buys First Trust Enhanced Equity Income Fund, General Dynamics Corp, ...",massive_raw_partner_headlines,2020-04-23,2020-04-23
-2020-04-23 00:00:00,"Van Leeuwen & Company, LLC Buys UnitedHealth Group Inc, Microsoft Corp, SPDR S&P ...",massive_raw_partner_headlines,2020-04-23,2020-04-23
-2020-04-23 00:00:00,"Sadoff Investment Management Llc Buys SPDR S&P 5……, Boeing Co, Microsoft Corp, Sells ...",massive_raw_partner_headlines,2020-04-23,2020-04-23
-2020-04-23 00:00:00,3 Blue-Chip Tech Stocks to Buy Right Now Not Named Apple or Microsoft,massive_raw_partner_headlines,2020-04-23,2020-04-23
 2020-04-23 00:00:00,"Capital City Trust Co Buys General Dynamics Corp, Vanguard Short-Term Bond, PIMCO Enhanced ...",massive_raw_partner_headlines,2020-04-23,2020-04-23
-2020-04-24 13:40:00,"SemiLEDS Shares Up 13% Fri.; Co. Is A Manufacturer, Seller Of LED Chips, Components And Modules For LED Systems; Traders Attribute Strength To Trump Comments Thurs. About Exposure To Light Impacting Coronavirus Cells On Surface",kaggle_analyst_analyst_ratings_processed.csv,2020-04-24,2020-04-24
-2020-04-24 00:00:00,"Wall Street rallied on Friday, led higher by Apple and Microsoft as investors finished a turbulent week of trading and some states prepared to relax coronavirus-related lockdowns.",kaggle_financial_news,2020-04-24,2020-04-24
-2020-04-24 13:47:00,SemiLEDS shares are trading higher. Traders attribute strength to Thursday comments from Trump and DHS official Bryan about light exposure impacting coronavirus cells on surface. NOTE: Co. sells and manufactures LED chips.,kaggle_analyst_analyst_ratings_processed.csv,2020-04-24,2020-04-24
-2020-04-24 00:00:00,"The Zacks Analyst Blog Highlights: Microsoft, Apple, Adobe, Nvidia and Salesforce",massive_raw_partner_headlines,2020-04-24,2020-04-24
 2020-04-24 00:00:00,Microsoft (MSFT) to Report Q3 Results: What's in the Offing?,massive_raw_partner_headlines,2020-04-24,2020-04-24
-2020-04-27 00:00:00,"CURO Group, Foot Locker, Microsoft, Amazon and Slack highlighted as Zacks Bull and Bear of the Day",massive_raw_partner_headlines,2020-04-27,2020-04-27
-2020-04-27 00:00:00,"Microsoft Corp  on Monday said it had won a five-year deal with Coca-Cola Co  to supply business software, including its Teams chat app and tools for customer service agents.",kaggle_financial_news,2020-04-27,2020-04-27
-2020-04-27 09:31:00,Paytm in Talks to Raise New Capital from Microsoft,kaggle_analyst_analyst_ratings_processed.csv,2020-04-27,2020-04-27
+2020-04-24 00:00:00,"The Zacks Analyst Blog Highlights: Microsoft, Apple, Adobe, Nvidia and Salesforce",massive_raw_partner_headlines,2020-04-24,2020-04-24
+2020-04-24 13:40:00,"SemiLEDS Shares Up 13% Fri.; Co. Is A Manufacturer, Seller Of LED Chips, Components And Modules For LED Systems; Traders Attribute Strength To Trump Comments Thurs. About Exposure To Light Impacting Coronavirus Cells On Surface",kaggle_analyst_analyst_ratings_processed.csv,2020-04-24,2020-04-24
+2020-04-24 13:47:00,SemiLEDS shares are trading higher. Traders attribute strength to Thursday comments from Trump and DHS official Bryan about light exposure impacting coronavirus cells on surface. NOTE: Co. sells and manufactures LED chips.,kaggle_analyst_analyst_ratings_processed.csv,2020-04-24,2020-04-24
 2020-04-27 00:00:00,Analysts Estimate Douglas Dynamics (PLOW) to Report a Decline in Earnings: What to Look Out for,massive_raw_partner_headlines,2020-04-27,2020-04-27
-2020-04-27 00:00:00,Will Azure & Teams Adoption Aid Microsoft (MSFT) Q3 Earnings?,massive_raw_partner_headlines,2020-04-27,2020-04-27
 2020-04-27 00:00:00,"Big Tech's First Coronavirus Earnings Test: Buy Apple, Amazon or Microsoft Stock?",massive_raw_partner_headlines,2020-04-27,2020-04-27
+2020-04-27 09:31:00,Paytm in Talks to Raise New Capital from Microsoft,kaggle_analyst_analyst_ratings_processed.csv,2020-04-27,2020-04-27
+2020-04-27 00:00:00,Will Azure & Teams Adoption Aid Microsoft (MSFT) Q3 Earnings?,massive_raw_partner_headlines,2020-04-27,2020-04-27
+2020-04-27 00:00:00,"CURO Group, Foot Locker, Microsoft, Amazon and Slack highlighted as Zacks Bull and Bear of the Day",massive_raw_partner_headlines,2020-04-27,2020-04-27
 2020-04-28 00:00:00,"DDD Partners, LLC Buys WestRock Co, Weyerhaeuser Co, General Dynamics Corp, Sells Ovintiv Inc, ...",massive_raw_partner_headlines,2020-04-28,2020-04-28
-2020-04-28 00:00:00,"When Microsoft Corp reports earnings on Wednesday, analysts expect some areas of its business to take a hit from the novel coronavirus pandemic, with lower-than-expected sales in areas like advertising on its LinkedIn social network.",kaggle_financial_news,2020-04-28,2020-04-28
-2020-04-28 00:00:00,Microsoft ETFs to Watch on Surging Cloud Ahead of Q3 Earnings,massive_raw_partner_headlines,2020-04-28,2020-04-28
-2020-04-28 00:00:00,"Columbus Circle Investors Buys Zendesk Inc, Nuance Communications Inc, Microsoft Corp, Sells ...",massive_raw_partner_headlines,2020-04-28,2020-04-28
-2020-04-28 00:00:00,"Garrison Bradford & Associates Inc Buys Aon PLC, Microsoft Corp, Uber Technologies Inc, ...",massive_raw_partner_headlines,2020-04-28,2020-04-28
-2020-04-28 00:00:00,"Tech Stocks' Apr 29 Earnings Lineup: NOW, FB, MSFT, FICO, GIB",massive_raw_partner_headlines,2020-04-28,2020-04-28
 2020-04-28 00:00:00,"TenCore Partners, LP Buys Microsoft Corp, Salesforce. ...",massive_raw_partner_headlines,2020-04-28,2020-04-28
-2020-04-29 00:00:00,"Nikulski Financial, Inc. Buys Microsoft Corp, Palo Alto Networks Inc, The Home Depot Inc, Sells ...",massive_raw_partner_headlines,2020-04-29,2020-04-29
-2020-04-29 11:04:00,"General Dynamics Q1 EPS $2.430 Misses $2.570 Estimate, Sales $8.749B Miss $9.230B Estimate",kaggle_analyst_analyst_ratings_processed.csv,2020-04-29,2020-04-29
-2020-04-29 00:00:00,"Droms Strauss Advisors Inc Buys iShares Russell —……… Value, Microsoft Corp, iShares ...",massive_raw_partner_headlines,2020-04-29,2020-04-29
+2020-04-28 00:00:00,"Columbus Circle Investors Buys Zendesk Inc, Nuance Communications Inc, Microsoft Corp, Sells ...",massive_raw_partner_headlines,2020-04-28,2020-04-28
+2020-04-28 00:00:00,Microsoft ETFs to Watch on Surging Cloud Ahead of Q3 Earnings,massive_raw_partner_headlines,2020-04-28,2020-04-28
+2020-04-28 00:00:00,"Tech Stocks' Apr 29 Earnings Lineup: NOW, FB, MSFT, FICO, GIB",massive_raw_partner_headlines,2020-04-28,2020-04-28
+2020-04-28 00:00:00,"Garrison Bradford & Associates Inc Buys Aon PLC, Microsoft Corp, Uber Technologies Inc, ...",massive_raw_partner_headlines,2020-04-28,2020-04-28
 2020-04-29 11:32:00,General Dynamics shares are trading lower after the company reported worse-than-expected Q1 EPS and sales results.,kaggle_analyst_analyst_ratings_processed.csv,2020-04-29,2020-04-29
+2020-04-29 11:04:00,"General Dynamics Q1 EPS $2.430 Misses $2.570 Estimate, Sales $8.749B Miss $9.230B Estimate",kaggle_analyst_analyst_ratings_processed.csv,2020-04-29,2020-04-29
+2020-04-29 00:00:00,"Nikulski Financial, Inc. Buys Microsoft Corp, Palo Alto Networks Inc, The Home Depot Inc, Sells ...",massive_raw_partner_headlines,2020-04-29,2020-04-29
+2020-04-29 00:00:00,"Droms Strauss Advisors Inc Buys iShares Russell —……… Value, Microsoft Corp, iShares ...",massive_raw_partner_headlines,2020-04-29,2020-04-29
 2020-04-29 00:00:00,USANA teams with Dynamic Blending to manufacture hand sanitizer for local frontline workers,massive_raw_partner_headlines,2020-04-29,2020-04-29
 2020-04-29 00:00:00,"The Zacks Analyst Blog Highlights: Heidrick & Struggles International, D.R. Horton, M.D.C., EnPro Industries and Steel Dynamics",massive_raw_partner_headlines,2020-04-29,2020-04-29
-2020-04-29 00:00:00,General Dynamics (GD) Q1 Earnings & Revenues Miss Estimates,massive_raw_partner_headlines,2020-04-29,2020-04-29
 2020-04-29 00:00:00,General Dynamics (GD) Lags Q1 Earnings and Revenue Estimates,massive_raw_partner_headlines,2020-04-29,2020-04-29
+2020-04-29 00:00:00,General Dynamics (GD) Q1 Earnings & Revenues Miss Estimates,massive_raw_partner_headlines,2020-04-29,2020-04-29
+2020-04-30 00:00:00,"Cantillon Capital Management Llc Buys Applied Materials Inc, Microsoft Corp, W R Grace, Sells ...",massive_raw_partner_headlines,2020-04-30,2020-04-30
 2020-04-30 14:50:00,"Susquehanna Maintains Positive on General Dynamics, Lowers Price Target to $167",kaggle_analyst_analyst_ratings_processed.csv,2020-04-30,2020-04-30
-2020-04-30 00:00:00,"Microsoft (MSFT) Q3 Earnings & Revenues Beat Estimates, Up Y/Y",massive_raw_partner_headlines,2020-04-30,2020-04-30
 2020-04-30 13:54:00,"Apple And Amazon Up To Bat this Afternoon As Investors Ponder Microsoft, Facebook Results",kaggle_analyst_analyst_ratings_processed.csv,2020-04-30,2020-04-30
 2020-04-30 13:06:00,"Credit Suisse Maintains Neutral on General Dynamics, Lowers Price Target to $153",kaggle_analyst_analyst_ratings_processed.csv,2020-04-30,2020-04-30
-2020-04-30 00:00:00,"Dow Jones Drops 350 Points, But Microsoft Holds Up; All Eyes On Apple, Amazon Earnings",massive_raw_partner_headlines,2020-04-30,2020-04-30
-2020-04-30 00:00:00,"Kranot Hishtalmut Le Morim Tichoniim Havera Menahe Buys Microsoft Corp, Alphabet Inc, ...",massive_raw_partner_headlines,2020-04-30,2020-04-30
-2020-04-30 00:00:00,"Cantillon Capital Management Llc Buys Applied Materials Inc, Microsoft Corp, W R Grace, Sells ...",massive_raw_partner_headlines,2020-04-30,2020-04-30
-2020-04-30 00:00:00,(This April 29 story corrects number of Xbox Live users in paragraph 6 to 90 million monthly active users not 19 million active users; and corrects description in paragraph 8 to say daily active Teams),kaggle_financial_news,2020-04-30,2020-04-30
-2020-04-30 00:00:00,"Scotts Miracle-Gro, PVH, Apple, Amazon and Microsoft highlighted as Zacks Bull and Bear of the Day",massive_raw_partner_headlines,2020-04-30,2020-04-30
 2020-04-30 00:00:00,"Schulhoff & Co Inc Buys General Dynamics Corp, Sells Tiffany, McCormick Inc, Schlumberger",massive_raw_partner_headlines,2020-04-30,2020-04-30
+2020-04-30 00:00:00,"Scotts Miracle-Gro, PVH, Apple, Amazon and Microsoft highlighted as Zacks Bull and Bear of the Day",massive_raw_partner_headlines,2020-04-30,2020-04-30
+2020-04-30 00:00:00,"Westhampton Capital, LLC Buys General Dynamics Corp, Truist Financial Corp, Qualcomm Inc, Sells ...",massive_raw_partner_headlines,2020-04-30,2020-04-30
+2020-04-30 00:00:00,"Dow Jones Drops 350 Points, But Microsoft Holds Up; All Eyes On Apple, Amazon Earnings",massive_raw_partner_headlines,2020-04-30,2020-04-30
 2020-04-30 00:00:00,"Guinness Atkinson Asset Management Inc Buys Microsoft Corp, Visa Inc, Mastercard Inc, Sells New ...",massive_raw_partner_headlines,2020-04-30,2020-04-30
 2020-04-30 00:00:00,"KAMES CAPITAL plc Buys Haemonetics Corp, Microsoft Corp, Biogen Inc, Sells EOG Resources Inc, ...",massive_raw_partner_headlines,2020-04-30,2020-04-30
-2020-04-30 00:00:00,"The coronavirus is roiling global job markets, but the picture is not all gloomy. Finance, technology and consumer goods firms are hiring tens of thousands in the United States and other countries, according to data from Microsoft Corp's  professional networking site LinkedIn.",kaggle_financial_news,2020-04-30,2020-04-30
-2020-04-30 00:00:00,"Westhampton Capital, LLC Buys General Dynamics Corp, Truist Financial Corp, Qualcomm Inc, Sells ...",massive_raw_partner_headlines,2020-04-30,2020-04-30
+2020-04-30 00:00:00,"Microsoft (MSFT) Q3 Earnings & Revenues Beat Estimates, Up Y/Y",massive_raw_partner_headlines,2020-04-30,2020-04-30
+2020-04-30 00:00:00,"Kranot Hishtalmut Le Morim Tichoniim Havera Menahe Buys Microsoft Corp, Alphabet Inc, ...",massive_raw_partner_headlines,2020-04-30,2020-04-30
 2020-05-01 13:47:00,"Sidoti & Co. Maintains Buy on Douglas Dynamics, Lowers Price Target to $44",kaggle_analyst_analyst_ratings_processed.csv,2020-05-01,2020-05-01
+2020-05-01 00:00:00,"The Zacks Analyst Blog Highlights: Microsoft, Facebook, Alphabet, Zoom Video Communications and Cisco Systems",massive_raw_partner_headlines,2020-05-01,2020-05-01
+2020-05-01 00:00:00,"Alley Co LLC Buys Microsoft Corp, Merck Inc, Lockheed Martin Corp, Sells Exxon Mobil Corp, ...",massive_raw_partner_headlines,2020-05-01,2020-05-01
+2020-05-01 00:00:00,"Chatham Capital Group, Inc. Buys Microsoft Corp, American Express Co, Intel Corp, Sells Bank of ...",massive_raw_partner_headlines,2020-05-01,2020-05-01
 2020-05-01 00:00:00,Stay-At-Home Fuels Microsoft Q3 Earnings: ETFs to Buy,massive_raw_partner_headlines,2020-05-01,2020-05-01
 2020-05-01 00:00:00,"Baker Chad R Buys Microsoft Corp, Fiserv Inc, Becton, Dickinson and Co, Sells Boston Scientific ...",massive_raw_partner_headlines,2020-05-01,2020-05-01
-2020-05-01 00:00:00,"The Zacks Analyst Blog Highlights: Microsoft, Facebook, Alphabet, Zoom Video Communications and Cisco Systems",massive_raw_partner_headlines,2020-05-01,2020-05-01
-2020-05-01 00:00:00,"Chatham Capital Group, Inc. Buys Microsoft Corp, American Express Co, Intel Corp, Sells Bank of ...",massive_raw_partner_headlines,2020-05-01,2020-05-01
-2020-05-01 00:00:00,"Alley Co LLC Buys Microsoft Corp, Merck Inc, Lockheed Martin Corp, Sells Exxon Mobil Corp, ...",massive_raw_partner_headlines,2020-05-01,2020-05-01
 2020-05-01 00:00:00,"Bull Street Advisors, LLC Buys Microsoft Corp, Apple Inc, Danaher Corp, Sells Dow Inc, Bank of ...",massive_raw_partner_headlines,2020-05-01,2020-05-01
-2020-05-04 00:00:00,"Sad piano chords, somber shots of empty streets and close-ups of people staring out their windows. So prevalent were coronavirus-themed ads that followed a similar template just a few weeks ago, they were parodied in a YouTube compilation video: ""Every COVID-19 Commercial is Exactly the Same.""",kaggle_financial_news,2020-05-04,2020-05-04
+2020-05-04 00:00:00,"Zacks Investment Ideas feature highlights: Google, Facebook, Apple, Microsoft and Amazon",massive_raw_partner_headlines,2020-05-04,2020-05-04
+2020-05-04 09:21:00,"Server Orders to be Strong in H2 Due to Demand from FaceBook, Microsoft",kaggle_analyst_analyst_ratings_processed.csv,2020-05-04,2020-05-04
+2020-05-04 00:00:00,"Douglas Dynamics (PLOW) Reports Q1 Loss, Misses Revenue Estimates",massive_raw_partner_headlines,2020-05-04,2020-05-04
+2020-05-04 20:57:00,Avid Announces New Five-Year Agreement With Microsoft Azure,kaggle_analyst_analyst_ratings_processed.csv,2020-05-04,2020-05-04
+2020-05-04 00:00:00,"Provident Investment Management, Inc. Buys Microsoft Corp, IAC/InterActiveCorp, Synnex Corp, ...",massive_raw_partner_headlines,2020-05-04,2020-05-04
 2020-05-04 00:00:00,"The Zacks Analyst Blog Highlights: Microsoft, Amazon, Alphabet and Facebook",massive_raw_partner_headlines,2020-05-04,2020-05-04
 2020-05-04 00:00:00,Avid Announces New Five-Year Agreement with Microsoft Azure to Bring More Media Companies to ...,massive_raw_partner_headlines,2020-05-04,2020-05-04
-2020-05-04 00:00:00,"Forsta Ap-fonden Buys Microsoft Corp, Apple Inc, Facebook Inc, Sells SPDR Select Sector Fund - ...",massive_raw_partner_headlines,2020-05-04,2020-05-04
 2020-05-04 00:00:00,"Jupiter Wealth Management LLC Buys Microsoft Corp, Verizon Communications Inc, Morgan Stanley, ...",massive_raw_partner_headlines,2020-05-04,2020-05-04
-2020-05-04 00:00:00,"Provident Investment Management, Inc. Buys Microsoft Corp, IAC/InterActiveCorp, Synnex Corp, ...",massive_raw_partner_headlines,2020-05-04,2020-05-04
-2020-05-04 00:00:00,"Douglas Dynamics (PLOW) Reports Q1 Loss, Misses Revenue Estimates",massive_raw_partner_headlines,2020-05-04,2020-05-04
-2020-05-03 12:18:00,"Benzinga's Bulls And Bears Of The Week: Ford, Gilead, Microsoft, Intel And More",kaggle_analyst_analyst_ratings_processed.csv,2020-05-03,2020-05-04
+2020-05-04 00:00:00,"Forsta Ap-fonden Buys Microsoft Corp, Apple Inc, Facebook Inc, Sells SPDR Select Sector Fund - ...",massive_raw_partner_headlines,2020-05-04,2020-05-04
 2020-05-04 00:00:00,"Dow Jones Leaders Apple, Microsoft Headline Five Top Stocks In Or Near Buy Zones",massive_raw_partner_headlines,2020-05-04,2020-05-04
 2020-05-04 00:00:00,"Dow Jones Futures Lower With Apple, Microsoft In Buy Range In Current Stock Market Rally; Chegg Soars 16% On Earnings",massive_raw_partner_headlines,2020-05-04,2020-05-04
-2020-05-04 00:00:00,"Elfun Trust Cuts Visa, Apple, Microsoft",massive_raw_partner_headlines,2020-05-04,2020-05-04
 2020-05-04 00:00:00,"David Carlson's Elfun Trusts Cuts Visa, Apple, Microsoft",massive_raw_partner_headlines,2020-05-04,2020-05-04
+2020-05-03 12:18:00,"Benzinga's Bulls And Bears Of The Week: Ford, Gilead, Microsoft, Intel And More",kaggle_analyst_analyst_ratings_processed.csv,2020-05-03,2020-05-04
 2020-05-02 13:15:00,How Amazon Web Services Stacked Up Against Microsoft's Azure,kaggle_analyst_analyst_ratings_processed.csv,2020-05-02,2020-05-04
-2020-05-04 09:21:00,"Server Orders to be Strong in H2 Due to Demand from FaceBook, Microsoft",kaggle_analyst_analyst_ratings_processed.csv,2020-05-04,2020-05-04
-2020-05-04 00:00:00,"Zacks Investment Ideas feature highlights: Google, Facebook, Apple, Microsoft and Amazon",massive_raw_partner_headlines,2020-05-04,2020-05-04
-2020-05-04 20:57:00,Avid Announces New Five-Year Agreement With Microsoft Azure,kaggle_analyst_analyst_ratings_processed.csv,2020-05-04,2020-05-04
-2020-05-05 00:00:00,"Microsoft will invest $1 billion in Poland as part of a plan that will involve opening a data centre in the country to provide cloud services to businesses and government institutions, the company said in a statement on Tuesday.",kaggle_financial_news,2020-05-05,2020-05-05
-2020-05-05 16:02:00,Shares Of Adaptive Biotechnologies Tick Up As Compant Announces: 'Adaptive Biotechnologies and Microsoft launch virtual ImmuneRACE study to inform novel COVID-19 diagnostics to address unmet needs in testing',kaggle_analyst_analyst_ratings_processed.csv,2020-05-05,2020-05-05
-2020-05-05 00:00:00,"Dow Jones Gets A Boost From Apple, Microsoft, Chevron As Economies Reopen",massive_raw_partner_headlines,2020-05-05,2020-05-05
+2020-05-04 00:00:00,"Elfun Trust Cuts Visa, Apple, Microsoft",massive_raw_partner_headlines,2020-05-04,2020-05-04
 2020-05-05 16:33:00,"Laboratory Corp of America shares are trading higher after the company and Microsoft launched a virtual, coronavirus-related study called ImmuneRACE. UBS maintained a Buy rating and raised its price target from $209 to $218.",kaggle_analyst_analyst_ratings_processed.csv,2020-05-05,2020-05-05
-2020-05-05 00:00:00,Dow Jones Surges 350 Points On Easing Lockdowns; Microsoft Breaks Out Above New Buy Point,massive_raw_partner_headlines,2020-05-05,2020-05-05
+2020-05-05 00:00:00,"Dow Jones Gets A Boost From Apple, Microsoft, Chevron As Economies Reopen",massive_raw_partner_headlines,2020-05-05,2020-05-05
+2020-05-05 16:02:00,Shares Of Adaptive Biotechnologies Tick Up As Compant Announces: 'Adaptive Biotechnologies and Microsoft launch virtual ImmuneRACE study to inform novel COVID-19 diagnostics to address unmet needs in testing',kaggle_analyst_analyst_ratings_processed.csv,2020-05-05,2020-05-05
 2020-05-05 00:00:00,"Dow Jones Jumps 400 Points; Microsoft, Apple In Buy Range As Coronavirus Stock Market Rally Strengthens",massive_raw_partner_headlines,2020-05-05,2020-05-05
+2020-05-05 00:00:00,Dow Jones Surges 350 Points On Easing Lockdowns; Microsoft Breaks Out Above New Buy Point,massive_raw_partner_headlines,2020-05-05,2020-05-05
 2020-05-05 00:00:00,Adaptive Biotechnologies and Microsoft launch virtual ImmuneRACE study to inform novel ...,massive_raw_partner_headlines,2020-05-05,2020-05-05
-2020-05-06 16:02:00,"Baird Maintains Neutral on Douglas Dynamics, Lowers Price Target of $35",kaggle_analyst_analyst_ratings_processed.csv,2020-05-06,2020-05-06
-2020-05-06 14:41:00,"UPDATE: Progress Says Integrated Microsoft Azure Services Enable Sitefinity Cloud Users To Develop, Run, Manage Sitefinity-Powered Digital Experiences Without Complexity",kaggle_analyst_analyst_ratings_processed.csv,2020-05-06,2020-05-06
-2020-05-06 14:39:00,Progress Reports Expanded Relationship With Microsoft,kaggle_analyst_analyst_ratings_processed.csv,2020-05-06,2020-05-06
-2020-05-06 13:23:00,'Microsoft is releasing its new AirPods rival after months of delays — and it's even cheaper than expected' -Recent Business Insider Article,kaggle_analyst_analyst_ratings_processed.csv,2020-05-06,2020-05-06
-2020-05-06 13:12:00,"Argus Research Maintains Buy on General Dynamics, Lowers Price Target to $155",kaggle_analyst_analyst_ratings_processed.csv,2020-05-06,2020-05-06
-2020-05-06 11:16:00,B of A Securities Downgrades Steel Dynamics to Underperform,kaggle_analyst_analyst_ratings_processed.csv,2020-05-06,2020-05-06
 2020-05-06 00:00:00,"AMS Capital Ltda Buys Microsoft Corp, Vanguard Real Estate, Boston Beer Co Inc, Sells SPDR Gold ...",massive_raw_partner_headlines,2020-05-06,2020-05-06
-2020-05-06 00:00:00,"Marshall & Sullivan Inc Buys Microsoft Corp, Sells Nordstrom Inc, Merck Inc, Costco ...",massive_raw_partner_headlines,2020-05-06,2020-05-06
-2020-05-06 00:00:00,"Dow Jones Lower As Payroll Drop Weighs; Are Apple, Microsoft Still In Buy Zone?",massive_raw_partner_headlines,2020-05-06,2020-05-06
-2020-05-06 00:00:00,"Dow Jones Fades Early Gain, But Microsoft, Apple Strong; Biotech Leader Breaks Out On Earnings",massive_raw_partner_headlines,2020-05-06,2020-05-06
 2020-05-06 00:00:00,"Elite Wealth Management, LLC Buys ProShares UltraShort S&P5……, Microsoft Corp, Amazon. ...",massive_raw_partner_headlines,2020-05-06,2020-05-06
+2020-05-06 00:00:00,"Dow Jones Lower As Payroll Drop Weighs; Are Apple, Microsoft Still In Buy Zone?",massive_raw_partner_headlines,2020-05-06,2020-05-06
+2020-05-06 00:00:00,"Marshall & Sullivan Inc Buys Microsoft Corp, Sells Nordstrom Inc, Merck Inc, Costco ...",massive_raw_partner_headlines,2020-05-06,2020-05-06
+2020-05-06 00:00:00,"Dow Jones Fades Early Gain, But Microsoft, Apple Strong; Biotech Leader Breaks Out On Earnings",massive_raw_partner_headlines,2020-05-06,2020-05-06
+2020-05-06 11:16:00,B of A Securities Downgrades Steel Dynamics to Underperform,kaggle_analyst_analyst_ratings_processed.csv,2020-05-06,2020-05-06
+2020-05-06 13:12:00,"Argus Research Maintains Buy on General Dynamics, Lowers Price Target to $155",kaggle_analyst_analyst_ratings_processed.csv,2020-05-06,2020-05-06
+2020-05-06 13:23:00,'Microsoft is releasing its new AirPods rival after months of delays — and it's even cheaper than expected' -Recent Business Insider Article,kaggle_analyst_analyst_ratings_processed.csv,2020-05-06,2020-05-06
+2020-05-06 14:39:00,Progress Reports Expanded Relationship With Microsoft,kaggle_analyst_analyst_ratings_processed.csv,2020-05-06,2020-05-06
+2020-05-06 14:41:00,"UPDATE: Progress Says Integrated Microsoft Azure Services Enable Sitefinity Cloud Users To Develop, Run, Manage Sitefinity-Powered Digital Experiences Without Complexity",kaggle_analyst_analyst_ratings_processed.csv,2020-05-06,2020-05-06
+2020-05-06 16:02:00,"Baird Maintains Neutral on Douglas Dynamics, Lowers Price Target of $35",kaggle_analyst_analyst_ratings_processed.csv,2020-05-06,2020-05-06
+2020-05-07 17:16:00,NBC Streaming Service Peacock To Launch On Microsoft's Xbox Devices,kaggle_analyst_analyst_ratings_processed.csv,2020-05-07,2020-05-07
 2020-05-07 15:47:00,EA SPORTS Announces Madden NFL 21 Will Be Available on Xbox Series X,kaggle_analyst_analyst_ratings_processed.csv,2020-05-07,2020-05-07
 2020-05-07 14:49:00,General Dynamics shares are trading higher after the company announced it won a $350 million state department IT services contract.,kaggle_analyst_analyst_ratings_processed.csv,2020-05-07,2020-05-07
 2020-05-07 14:30:00,General Dynamics Wins ~$350M State Dept. IT Services Contract,kaggle_analyst_analyst_ratings_processed.csv,2020-05-07,2020-05-07
-2020-05-07 17:16:00,NBC Streaming Service Peacock To Launch On Microsoft's Xbox Devices,kaggle_analyst_analyst_ratings_processed.csv,2020-05-07,2020-05-07
 2020-05-07 00:00:00,General Dynamics Awarded State Department IT Services Contract,massive_raw_partner_headlines,2020-05-07,2020-05-07
 2020-05-07 00:00:00,"Hamel Associates, Inc. Buys Chubb, The Home Depot Inc, Microsoft Corp, Sells Boeing Co, ...",massive_raw_partner_headlines,2020-05-07,2020-05-07
 2020-05-07 00:00:00,"Premier Asset Managment LLC Buys Microsoft Corp, Citigroup Inc, DocuSign Inc, Sells NXP ...",massive_raw_partner_headlines,2020-05-07,2020-05-07
 2020-05-07 13:09:00,"Cramer Weighs In On Crowdstrike, General Dynamics And More",kaggle_analyst_analyst_ratings_processed.csv,2020-05-07,2020-05-07
-2020-05-08 00:00:00,"Ontario Teachers Pension Plan Board Buys Microsoft Corp, Alibaba Group Holding, Canadian ...",massive_raw_partner_headlines,2020-05-08,2020-05-08
-2020-05-08 00:00:00,"Partnervest Advisory Services LLC Buys Microsoft Corp, The Communication Services Select Sector ...",massive_raw_partner_headlines,2020-05-08,2020-05-08
-2020-05-08 00:00:00,"The Zacks Analyst Blog Highlights: Zendesk, Adobe, Netflix, Microsoft and Amazon",massive_raw_partner_headlines,2020-05-08,2020-05-08
-2020-05-08 00:00:00,"United Bank Buys Truist Financial Corp, Sells Microsoft Corp, JPMorgan Chase, Alphabet Inc",massive_raw_partner_headlines,2020-05-08,2020-05-08
-2020-05-08 00:00:00,"JW Asset Management, LLC Buys Beyond Meat Inc, Microsoft Corp, iShares China Large-Cap, Sells ...",massive_raw_partner_headlines,2020-05-08,2020-05-08
-2020-05-08 00:00:00,"HC Advisors, LLC Buys Centene Corp, Microsoft Corp, Verisk Analytics Inc, Sells Vanguard Total ...",massive_raw_partner_headlines,2020-05-08,2020-05-08
 2020-05-08 00:00:00,"Frontier Wealth Management LLC Buys Microsoft Corp, Apple Inc, VanEck Vectors Gold Miners, ...",massive_raw_partner_headlines,2020-05-08,2020-05-08
-2020-05-08 00:00:00,"Hancock Holding Co Buys Amazon.com Inc, Microsoft Corp, Apple Inc, Sells iShares Core S&P ...",massive_raw_partner_headlines,2020-05-08,2020-05-08
 2020-05-08 00:00:00,"Foundry Partners, LLC Buys General Dynamics Corp, Oshkosh Corp, Kimberly-Clark Corp, Sells ...",massive_raw_partner_headlines,2020-05-08,2020-05-08
-2020-05-08 00:00:00,"Oppenheimer Asset Management Inc. Buys Chevron Corp, Microsoft Corp, Affiliated Managers Group ...",massive_raw_partner_headlines,2020-05-08,2020-05-08
-2020-05-08 00:00:00,"Trivest Advisors Ltd Buys Microsoft Corp, NVIDIA Corp, Zoom Video Communications Inc, Sells GSX ...",massive_raw_partner_headlines,2020-05-08,2020-05-08
+2020-05-08 00:00:00,"Hancock Holding Co Buys Amazon.com Inc, Microsoft Corp, Apple Inc, Sells iShares Core S&P ...",massive_raw_partner_headlines,2020-05-08,2020-05-08
+2020-05-08 00:00:00,"JW Asset Management, LLC Buys Beyond Meat Inc, Microsoft Corp, iShares China Large-Cap, Sells ...",massive_raw_partner_headlines,2020-05-08,2020-05-08
 2020-05-08 00:00:00,"Mondrian Capital Management, LLC Buys Microsoft Corp, Western Digital Corp, Lam Research Corp, ...",massive_raw_partner_headlines,2020-05-08,2020-05-08
+2020-05-08 00:00:00,"Ontario Teachers Pension Plan Board Buys Microsoft Corp, Alibaba Group Holding, Canadian ...",massive_raw_partner_headlines,2020-05-08,2020-05-08
+2020-05-08 00:00:00,"Trivest Advisors Ltd Buys Microsoft Corp, NVIDIA Corp, Zoom Video Communications Inc, Sells GSX ...",massive_raw_partner_headlines,2020-05-08,2020-05-08
 2020-05-08 00:00:00,"South Street Advisors LLC Buys Microsoft Corp, MGM Growth Properties LLC, Coca-Cola Co, Sells ...",massive_raw_partner_headlines,2020-05-08,2020-05-08
-2020-05-08 00:00:00,Microsoft Corp. said on Friday it would create its first datacentre region in Italy under a $1.5 billion investment plan as the U.S. company expands its cloud computing services to more locations across the world.,kaggle_financial_news,2020-05-08,2020-05-08
-2020-05-08 00:00:00,"Chase Investment Counsel Corp Buys Apple Inc, Microsoft Corp, PepsiCo Inc, Sells Euronet ...",massive_raw_partner_headlines,2020-05-08,2020-05-08
 2020-05-08 00:00:00,"Hilton Capital Management, LLC Buys Microsoft Corp, Johnson & Johnson, Colgate-Palmolive ...",massive_raw_partner_headlines,2020-05-08,2020-05-08
-2020-05-11 00:00:00,"Banco Santander, S.A. Buys Microsoft Corp, Pampa Energia SA, Intel Corp, Sells McDonald's Corp, ...",massive_raw_partner_headlines,2020-05-11,2020-05-11
+2020-05-08 00:00:00,"Chase Investment Counsel Corp Buys Apple Inc, Microsoft Corp, PepsiCo Inc, Sells Euronet ...",massive_raw_partner_headlines,2020-05-08,2020-05-08
+2020-05-08 00:00:00,"Partnervest Advisory Services LLC Buys Microsoft Corp, The Communication Services Select Sector ...",massive_raw_partner_headlines,2020-05-08,2020-05-08
+2020-05-08 00:00:00,"United Bank Buys Truist Financial Corp, Sells Microsoft Corp, JPMorgan Chase, Alphabet Inc",massive_raw_partner_headlines,2020-05-08,2020-05-08
+2020-05-08 00:00:00,"Oppenheimer Asset Management Inc. Buys Chevron Corp, Microsoft Corp, Affiliated Managers Group ...",massive_raw_partner_headlines,2020-05-08,2020-05-08
+2020-05-08 00:00:00,"HC Advisors, LLC Buys Centene Corp, Microsoft Corp, Verisk Analytics Inc, Sells Vanguard Total ...",massive_raw_partner_headlines,2020-05-08,2020-05-08
+2020-05-08 00:00:00,"The Zacks Analyst Blog Highlights: Zendesk, Adobe, Netflix, Microsoft and Amazon",massive_raw_partner_headlines,2020-05-08,2020-05-08
 2020-05-11 21:06:00,Microvision shares are trading higher as traders circulate an unknown source article from Florida Independent titled 'Microsoft's Acquisition of Microvision Confirmed.',kaggle_analyst_analyst_ratings_processed.csv,2020-05-11,2020-05-11
 2020-05-11 20:54:00,Microvision Shares Spike In After Hours On Volume As Traders Circulate May 10-Dated Report From Unknown Source Florida Independent 'Microsoft's Acquisition of Microvision Confirmed',kaggle_analyst_analyst_ratings_processed.csv,2020-05-11,2020-05-11
-2020-05-11 00:00:00,"Meitav Dash Investments Ltd Buys Microsoft Corp, Varonis Systems Inc, Honeywell International ...",massive_raw_partner_headlines,2020-05-11,2020-05-11
-2020-05-11 00:00:00,"Nan Shan Life Insurance Co., Ltd. Buys Microsoft Corp, Netflix Inc, Alphabet Inc, Sells New ...",massive_raw_partner_headlines,2020-05-11,2020-05-11
-2020-05-11 00:00:00,"MainStreet Investment Advisors LLC Buys Microsoft Corp, Apple Inc, Amazon. ...",massive_raw_partner_headlines,2020-05-11,2020-05-11
 2020-05-11 00:00:00,"Shell Asset Management Co Buys Apple Inc, Microsoft Corp, Alibaba Group Holding",massive_raw_partner_headlines,2020-05-11,2020-05-11
-2020-05-11 00:00:00,"Greenwoods Asset Management Ltd Buys JD.com Inc, Baidu Inc, Microsoft Corp, Sells New Oriental ...",massive_raw_partner_headlines,2020-05-11,2020-05-11
-2020-05-11 00:00:00,"First Pacific Advisors Trims Microsoft, Howmet Aerospace",massive_raw_partner_headlines,2020-05-11,2020-05-11
-2020-05-11 00:00:00,"Blair William & Co Buys Apple Inc, Microsoft Corp, Amazon.com Inc",massive_raw_partner_headlines,2020-05-11,2020-05-11
 2020-05-11 00:00:00,"Tredje AP-fonden Buys Microsoft Corp, Amazon.com Inc, Apple Inc, Sells iShares U.S. ...",massive_raw_partner_headlines,2020-05-11,2020-05-11
-2020-05-12 00:00:00,"Advisory Research Inc Buys Microsoft Corp, The Hershey Co, Valvoline Inc, Sells Lamar ...",massive_raw_partner_headlines,2020-05-12,2020-05-12
+2020-05-11 00:00:00,"Blair William & Co Buys Apple Inc, Microsoft Corp, Amazon.com Inc",massive_raw_partner_headlines,2020-05-11,2020-05-11
+2020-05-11 00:00:00,"First Pacific Advisors Trims Microsoft, Howmet Aerospace",massive_raw_partner_headlines,2020-05-11,2020-05-11
+2020-05-11 00:00:00,"Greenwoods Asset Management Ltd Buys JD.com Inc, Baidu Inc, Microsoft Corp, Sells New Oriental ...",massive_raw_partner_headlines,2020-05-11,2020-05-11
+2020-05-11 00:00:00,"Meitav Dash Investments Ltd Buys Microsoft Corp, Varonis Systems Inc, Honeywell International ...",massive_raw_partner_headlines,2020-05-11,2020-05-11
+2020-05-11 00:00:00,"MainStreet Investment Advisors LLC Buys Microsoft Corp, Apple Inc, Amazon. ...",massive_raw_partner_headlines,2020-05-11,2020-05-11
+2020-05-11 00:00:00,"Banco Santander, S.A. Buys Microsoft Corp, Pampa Energia SA, Intel Corp, Sells McDonald's Corp, ...",massive_raw_partner_headlines,2020-05-11,2020-05-11
+2020-05-11 00:00:00,"Nan Shan Life Insurance Co., Ltd. Buys Microsoft Corp, Netflix Inc, Alphabet Inc, Sells New ...",massive_raw_partner_headlines,2020-05-11,2020-05-11
+2020-05-12 18:24:00,"Microvision Shares Fall To Session Low, Still Up 11% For Session; Traders Circulate Tweet 'PR team for Microsoft said there is no legitimacy regarding acquiring of $MVIS...'",kaggle_analyst_analyst_ratings_processed.csv,2020-05-12,2020-05-12
 2020-05-12 00:00:00,"Perella Weinberg Partners Capital Management LP Buys Microsoft Corp, Alphabet Inc, Taiwan ...",massive_raw_partner_headlines,2020-05-12,2020-05-12
-2020-05-12 00:00:00,"Psagot Investment House Ltd. Buys SPDR Select Sector Fund - Health Care, Microsoft Corp, ...",massive_raw_partner_headlines,2020-05-12,2020-05-12
+2020-05-12 00:00:00,"Advisory Research Inc Buys Microsoft Corp, The Hershey Co, Valvoline Inc, Sells Lamar ...",massive_raw_partner_headlines,2020-05-12,2020-05-12
+2020-05-12 00:00:00,"Key Square Capital Management LLC Buys Microsoft Corp, Facebook Inc, Apple Inc, Sells XP Inc, ...",massive_raw_partner_headlines,2020-05-12,2020-05-12
+2020-05-12 20:11:00,"""Stay at Home"" Stocks Still Rule the Roost as Nvidia, Microsoft, Apple Start Week Firmly",kaggle_analyst_analyst_ratings_processed.csv,2020-05-12,2020-05-12
 2020-05-12 00:00:00,"Schmeidler A R & Co Inc Buys General Dynamics Corp, Quanta Services Inc, Visa Inc, Sells ...",massive_raw_partner_headlines,2020-05-12,2020-05-12
 2020-05-12 00:00:00,"Freestone Capital Holdings, LLC Buys Microsoft Corp, Smith & Nephew PLC, KKR Inc, Sells ...",massive_raw_partner_headlines,2020-05-12,2020-05-12
-2020-05-12 00:00:00,"Key Square Capital Management LLC Buys Microsoft Corp, Facebook Inc, Apple Inc, Sells XP Inc, ...",massive_raw_partner_headlines,2020-05-12,2020-05-12
-2020-05-12 00:00:00,DPL Teams With Transamerica; Adds Low-cost Variable Annuity With Several Living Benefit Options,massive_raw_partner_headlines,2020-05-12,2020-05-12
 2020-05-12 00:00:00,"Fairbanks Capital Management, Inc. Buys Visa Inc, General Dynamics Corp, Mastercard Inc, Sells ...",massive_raw_partner_headlines,2020-05-12,2020-05-12
-2020-05-12 18:24:00,"Microvision Shares Fall To Session Low, Still Up 11% For Session; Traders Circulate Tweet 'PR team for Microsoft said there is no legitimacy regarding acquiring of $MVIS...'",kaggle_analyst_analyst_ratings_processed.csv,2020-05-12,2020-05-12
-2020-05-12 20:11:00,"""Stay at Home"" Stocks Still Rule the Roost as Nvidia, Microsoft, Apple Start Week Firmly",kaggle_analyst_analyst_ratings_processed.csv,2020-05-12,2020-05-12
-2020-05-13 00:00:00,"Edgewood Management Llc Buys Snap Inc, Microsoft Corp, Intuit Inc, Sells Booking Holdings Inc, ...",massive_raw_partner_headlines,2020-05-13,2020-05-13
-2020-05-13 00:00:00,"Compagnie Lombard, Odier SCA Buys Abbott Laboratories, Microsoft Corp, The Walt Disney Co, ...",massive_raw_partner_headlines,2020-05-13,2020-05-13
+2020-05-12 00:00:00,DPL Teams With Transamerica; Adds Low-cost Variable Annuity With Several Living Benefit Options,massive_raw_partner_headlines,2020-05-12,2020-05-12
+2020-05-12 00:00:00,"Psagot Investment House Ltd. Buys SPDR Select Sector Fund - Health Care, Microsoft Corp, ...",massive_raw_partner_headlines,2020-05-12,2020-05-12
 2020-05-13 12:38:00,Steel Dynamics shares are trading lower after KeyBanc downgraded the company's stock from Overweight to Sector Weight.,kaggle_analyst_analyst_ratings_processed.csv,2020-05-13,2020-05-13
 2020-05-13 09:52:00,KeyBanc Downgrades Steel Dynamics to Sector Weight,kaggle_analyst_analyst_ratings_processed.csv,2020-05-13,2020-05-13
-2020-05-13 00:00:00,VirnetX Teams Up With PEDLOX,massive_raw_partner_headlines,2020-05-13,2020-05-13
-2020-05-13 00:00:00,"Eubel Brady & Suttman Asset Management Inc Buys AmerisourceBergen Corp, Steel Dynamics Inc, ...",massive_raw_partner_headlines,2020-05-13,2020-05-13
-2020-05-13 00:00:00,"Viking Global Investors LP Buys Comcast Corp, Microsoft Corp, Boston Scientific Corp, Sells ...",massive_raw_partner_headlines,2020-05-13,2020-05-13
+2020-05-13 00:00:00,"Destination Wealth Management Buys Microsoft Corp, Amazon. ...",massive_raw_partner_headlines,2020-05-13,2020-05-13
 2020-05-13 00:00:00,"Summit X, LLC Buys Apple Inc, Microsoft Corp, Mastercard Inc, Sells iShares Core MSCI Emerging ...",massive_raw_partner_headlines,2020-05-13,2020-05-13
 2020-05-13 00:00:00,"Steward Partners Welcomes Two Advisor Teams, Opens New Office in Virginia",massive_raw_partner_headlines,2020-05-13,2020-05-13
-2020-05-13 00:00:00,"Destination Wealth Management Buys Microsoft Corp, Amazon. ...",massive_raw_partner_headlines,2020-05-13,2020-05-13
 2020-05-13 00:00:00,"WT Wealth Management Buys SPDR Select Sector Fund - Health Care, Boeing Co, Microsoft Corp, ...",massive_raw_partner_headlines,2020-05-13,2020-05-13
-2020-05-14 00:00:00,"Financial Partners Group, Inc Buys Microsoft Corp, Apple Inc, Amazon. ...",massive_raw_partner_headlines,2020-05-14,2020-05-14
-2020-05-14 00:00:00,"Skye Global Management LP Buys Microsoft Corp, Amazon. ...",massive_raw_partner_headlines,2020-05-14,2020-05-14
-2020-05-14 00:00:00,"Greenwood Gearhart Inc Buys Microsoft Corp, iShares Intermediate Credit Bond ETF, Aon PLC, ...",massive_raw_partner_headlines,2020-05-14,2020-05-14
+2020-05-13 00:00:00,"Compagnie Lombard, Odier SCA Buys Abbott Laboratories, Microsoft Corp, The Walt Disney Co, ...",massive_raw_partner_headlines,2020-05-13,2020-05-13
+2020-05-13 00:00:00,VirnetX Teams Up With PEDLOX,massive_raw_partner_headlines,2020-05-13,2020-05-13
+2020-05-13 00:00:00,"Edgewood Management Llc Buys Snap Inc, Microsoft Corp, Intuit Inc, Sells Booking Holdings Inc, ...",massive_raw_partner_headlines,2020-05-13,2020-05-13
+2020-05-13 00:00:00,"Viking Global Investors LP Buys Comcast Corp, Microsoft Corp, Boston Scientific Corp, Sells ...",massive_raw_partner_headlines,2020-05-13,2020-05-13
+2020-05-13 00:00:00,"Eubel Brady & Suttman Asset Management Inc Buys AmerisourceBergen Corp, Steel Dynamics Inc, ...",massive_raw_partner_headlines,2020-05-13,2020-05-13
+2020-05-14 12:42:00,"UBS Maintains Buy on Steel Dynamics, Lowers Price Target to $32",kaggle_analyst_analyst_ratings_processed.csv,2020-05-14,2020-05-14
 2020-05-14 00:00:00,"Howe & Rusling Inc Buys Microsoft Corp, Pfizer Inc, DTE Energy Co, Sells Broadcom Inc, ...",massive_raw_partner_headlines,2020-05-14,2020-05-14
+2020-05-14 00:00:00,"Skye Global Management LP Buys Microsoft Corp, Amazon. ...",massive_raw_partner_headlines,2020-05-14,2020-05-14
+2020-05-14 00:00:00,"Bbr Partners, Llc Buys Microsoft Corp, Amazon. ...",massive_raw_partner_headlines,2020-05-14,2020-05-14
 2020-05-14 00:00:00,"American Century Companies Inc Buys Microsoft Corp, Amazon.com Inc, Apple Inc",massive_raw_partner_headlines,2020-05-14,2020-05-14
+2020-05-14 00:00:00,"Greenwood Gearhart Inc Buys Microsoft Corp, iShares Intermediate Credit Bond ETF, Aon PLC, ...",massive_raw_partner_headlines,2020-05-14,2020-05-14
 2020-05-14 00:00:00,"Employees Retirement System of Texas Buys Microsoft Corp, Apple Inc, iShares iBoxx $ High Yield ...",massive_raw_partner_headlines,2020-05-14,2020-05-14
 2020-05-14 00:00:00,"Bar Harbor Trust Services Buys Novo Nordisk A/S, CVS Health Corp, Wells Fargo, Sells Microsoft ...",massive_raw_partner_headlines,2020-05-14,2020-05-14
-2020-05-14 00:00:00,"Bbr Partners, Llc Buys Microsoft Corp, Amazon. ...",massive_raw_partner_headlines,2020-05-14,2020-05-14
-2020-05-14 12:42:00,"UBS Maintains Buy on Steel Dynamics, Lowers Price Target to $32",kaggle_analyst_analyst_ratings_processed.csv,2020-05-14,2020-05-14
-2020-05-15 00:00:00,"Capital Counsel Llc Buys Microsoft Corp, Alphabet Inc, Akamai Technologies Inc, Sells Cigna ...",massive_raw_partner_headlines,2020-05-15,2020-05-15
-2020-05-15 00:00:00,"BlueSpruce Investments, LP Buys Microsoft Corp, Charter Communications Inc, Stryker Corp, Sells ...",massive_raw_partner_headlines,2020-05-15,2020-05-15
-2020-05-15 00:00:00,"Engle Capital Management, L.P. Buys Peloton Interactive Inc, Microsoft Corp, Fidelity National ...",massive_raw_partner_headlines,2020-05-15,2020-05-15
-2020-05-15 00:00:00,UnitedHealth Group and Microsoft Collaborate to Launch ProtectWell™ Protocol and App to ...,massive_raw_partner_headlines,2020-05-15,2020-05-15
-2020-05-15 00:00:00,"45 Firms going Ex-Dividend next week, including Target, Microsoft and Dow Chemical",massive_raw_partner_headlines,2020-05-15,2020-05-15
-2020-05-15 00:00:00,"Peloton Wealth Strategists Buys Microsoft Corp, Intuitive Surgical Inc, WestRock Co, Sells ...",massive_raw_partner_headlines,2020-05-15,2020-05-15
-2020-05-15 00:00:00,"PointState Capital LP Buys Microsoft Corp, SPDR Select Sector Fund - Health Care, UnitedHealth ...",massive_raw_partner_headlines,2020-05-15,2020-05-15
+2020-05-14 00:00:00,"Financial Partners Group, Inc Buys Microsoft Corp, Apple Inc, Amazon. ...",massive_raw_partner_headlines,2020-05-14,2020-05-14
+2020-05-15 00:00:00,"Wedgewood Partners, Inc. Buys Keysight Technologies Inc, Microsoft Corp, Blackstone Group Inc, ...",massive_raw_partner_headlines,2020-05-15,2020-05-15
 2020-05-15 18:44:00,"Duquesne Cuts GE, Microsoft, Freeport-McMoRan, Home Depot, Abbott Labs Stakes",kaggle_analyst_analyst_ratings_processed.csv,2020-05-15,2020-05-15
 2020-05-15 13:01:00,"UnitedHealth Reports Collaboration With Microsoft To Launch ProtectWell Protocol, App To Support Return-To-Workplace Planning, Coronavirus Symptom Screening, No Terms Disclosed",kaggle_analyst_analyst_ratings_processed.csv,2020-05-15,2020-05-15
+2020-05-15 00:00:00,"First Sabrepoint Capital Management Lp Buys Grand Canyon Education Inc, Microsoft Corp, Dollar ...",massive_raw_partner_headlines,2020-05-15,2020-05-15
+2020-05-15 00:00:00,"Lombard Odier Asset Management (Europe) Ltd Buys Bank of America Corp, Microsoft Corp, Amazon. ...",massive_raw_partner_headlines,2020-05-15,2020-05-15
+2020-05-15 00:00:00,"Capital Counsel Llc Buys Microsoft Corp, Alphabet Inc, Akamai Technologies Inc, Sells Cigna ...",massive_raw_partner_headlines,2020-05-15,2020-05-15
+2020-05-15 00:00:00,"Ethic Inc. Buys Microsoft Corp, Apple Inc, Healthpeak Properties Inc, Sells Discover Financial ...",massive_raw_partner_headlines,2020-05-15,2020-05-15
+2020-05-15 00:00:00,"Caxton Associates Buys Microsoft Corp, Alibaba Group Holding, JPMorgan Chase, Sells SPDR ...",massive_raw_partner_headlines,2020-05-15,2020-05-15
+2020-05-15 00:00:00,"Inherent Group, Lp Buys Vanguard Short-Term Corporate Bond ETF, Microsoft Corp, Ball Corp, ...",massive_raw_partner_headlines,2020-05-15,2020-05-15
+2020-05-15 00:00:00,UnitedHealth Group and Microsoft Collaborate to Launch ProtectWell™ Protocol and App to ...,massive_raw_partner_headlines,2020-05-15,2020-05-15
+2020-05-15 00:00:00,"BlueSpruce Investments, LP Buys Microsoft Corp, Charter Communications Inc, Stryker Corp, Sells ...",massive_raw_partner_headlines,2020-05-15,2020-05-15
+2020-05-15 00:00:00,"ProShare Advisors LLC Buys Microsoft Corp, Apple Inc, Amazon.com Inc",massive_raw_partner_headlines,2020-05-15,2020-05-15
+2020-05-15 00:00:00,"Armor Advisors, L.l.c. Buys Microsoft Corp, Facebook Inc, Euronav NV, Sells Royal Gold Inc, ...",massive_raw_partner_headlines,2020-05-15,2020-05-15
+2020-05-15 00:00:00,"PointState Capital LP Buys Microsoft Corp, SPDR Select Sector Fund - Health Care, UnitedHealth ...",massive_raw_partner_headlines,2020-05-15,2020-05-15
+2020-05-15 00:00:00,"45 Firms going Ex-Dividend next week, including Target, Microsoft and Dow Chemical",massive_raw_partner_headlines,2020-05-15,2020-05-15
 2020-05-15 00:00:00,"Farallon Capital Management Llc Buys Centene Corp, IQVIA Holdings Inc, General Dynamics Corp, ...",massive_raw_partner_headlines,2020-05-15,2020-05-15
 2020-05-15 00:00:00,"Pennant Investors, LP Buys Microsoft Corp, Micron Technology Inc, DISH Network Corp, Sells ...",massive_raw_partner_headlines,2020-05-15,2020-05-15
-2020-05-15 00:00:00,"Caxton Associates Buys Microsoft Corp, Alibaba Group Holding, JPMorgan Chase, Sells SPDR ...",massive_raw_partner_headlines,2020-05-15,2020-05-15
-2020-05-15 00:00:00,"Armor Advisors, L.l.c. Buys Microsoft Corp, Facebook Inc, Euronav NV, Sells Royal Gold Inc, ...",massive_raw_partner_headlines,2020-05-15,2020-05-15
-2020-05-15 00:00:00,"Lombard Odier Asset Management (Europe) Ltd Buys Bank of America Corp, Microsoft Corp, Amazon. ...",massive_raw_partner_headlines,2020-05-15,2020-05-15
-2020-05-15 00:00:00,"ProShare Advisors LLC Buys Microsoft Corp, Apple Inc, Amazon.com Inc",massive_raw_partner_headlines,2020-05-15,2020-05-15
-2020-05-15 00:00:00,"Layoffs in the United States jumped to a record high in March, while the number of people voluntarily quitting their jobs dropped to a 4-1/2-year low as the novel coronavirus crisis rapidly changed labor market dynamics.",kaggle_financial_news,2020-05-15,2020-05-15
-2020-05-15 00:00:00,"Arrowstreet Capital Limited Partnership Buys Microsoft Corp, Intel Corp, Apple Inc",massive_raw_partner_headlines,2020-05-15,2020-05-15
-2020-05-15 00:00:00,"Ethic Inc. Buys Microsoft Corp, Apple Inc, Healthpeak Properties Inc, Sells Discover Financial ...",massive_raw_partner_headlines,2020-05-15,2020-05-15
-2020-05-15 00:00:00,"First Sabrepoint Capital Management Lp Buys Grand Canyon Education Inc, Microsoft Corp, Dollar ...",massive_raw_partner_headlines,2020-05-15,2020-05-15
+2020-05-15 00:00:00,"Engle Capital Management, L.P. Buys Peloton Interactive Inc, Microsoft Corp, Fidelity National ...",massive_raw_partner_headlines,2020-05-15,2020-05-15
 2020-05-15 00:00:00,"Euclidean Technologies Management, LLC Buys Super Micro Computer Inc, Douglas Dynamics Inc, ...",massive_raw_partner_headlines,2020-05-15,2020-05-15
-2020-05-15 00:00:00,"Inherent Group, Lp Buys Vanguard Short-Term Corporate Bond ETF, Microsoft Corp, Ball Corp, ...",massive_raw_partner_headlines,2020-05-15,2020-05-15
-2020-05-15 00:00:00,"Wedgewood Partners, Inc. Buys Keysight Technologies Inc, Microsoft Corp, Blackstone Group Inc, ...",massive_raw_partner_headlines,2020-05-15,2020-05-15
-2020-05-18 00:00:00,Ciena Teams With Deutsche Telekom Arm for Fiber Connectivity,massive_raw_partner_headlines,2020-05-18,2020-05-18
-2020-05-18 00:00:00,FedEx and Microsoft join forces to transform commerce,massive_raw_partner_headlines,2020-05-18,2020-05-18
-2020-05-18 00:00:00,"Microsoft (MSFT), UnitedHealth Partner on Return-to-Work App",massive_raw_partner_headlines,2020-05-18,2020-05-18
-2020-05-18 00:00:00,"Verity Asset Management, Inc. Buys Vanguard Short-Term Government Bond ETF, Microsoft Corp, ...",massive_raw_partner_headlines,2020-05-18,2020-05-18
-2020-05-18 13:01:00,"FedEx, Microsoft Report Multi-Year Collaboration To Transform Commerce By Combining Global Digital, Logistics Network",kaggle_analyst_analyst_ratings_processed.csv,2020-05-18,2020-05-18
+2020-05-15 00:00:00,"Peloton Wealth Strategists Buys Microsoft Corp, Intuitive Surgical Inc, WestRock Co, Sells ...",massive_raw_partner_headlines,2020-05-15,2020-05-15
+2020-05-15 00:00:00,"Arrowstreet Capital Limited Partnership Buys Microsoft Corp, Intel Corp, Apple Inc",massive_raw_partner_headlines,2020-05-15,2020-05-15
 2020-05-18 14:26:00,"MicroVision Shares Spike To Session High, Now Up 15%; Hearing Traders Circulate A Recent Reddit Post Highlighting A Teardown Of The Hololens 2",kaggle_analyst_analyst_ratings_processed.csv,2020-05-18,2020-05-18
-2020-05-19 12:32:00,Verint Highlights Launch Of Compliance Recording For Full Breadth Of Microsoft Teams Collaboration,kaggle_analyst_analyst_ratings_processed.csv,2020-05-19,2020-05-19
-2020-05-19 11:50:00,"Seaport Global Initiates Coverage On General Dynamics with Buy Rating, Announces Price Target of $188",kaggle_analyst_analyst_ratings_processed.csv,2020-05-19,2020-05-19
+2020-05-18 13:01:00,"FedEx, Microsoft Report Multi-Year Collaboration To Transform Commerce By Combining Global Digital, Logistics Network",kaggle_analyst_analyst_ratings_processed.csv,2020-05-18,2020-05-18
+2020-05-18 00:00:00,"Microsoft (MSFT), UnitedHealth Partner on Return-to-Work App",massive_raw_partner_headlines,2020-05-18,2020-05-18
+2020-05-18 00:00:00,Ciena Teams With Deutsche Telekom Arm for Fiber Connectivity,massive_raw_partner_headlines,2020-05-18,2020-05-18
+2020-05-18 00:00:00,"Verity Asset Management, Inc. Buys Vanguard Short-Term Government Bond ETF, Microsoft Corp, ...",massive_raw_partner_headlines,2020-05-18,2020-05-18
+2020-05-18 00:00:00,FedEx and Microsoft join forces to transform commerce,massive_raw_partner_headlines,2020-05-18,2020-05-18
 2020-05-19 00:00:00,"APG All Pensions Group NV Buys Amazon.com Inc, Microsoft Corp, Apple Inc, Sells HCA Healthcare ...",massive_raw_partner_headlines,2020-05-19,2020-05-19
-2020-05-19 00:00:00,Microsoft Corp said on Tuesday it plans to roll out a version of its cloud-based software that will be modified to suit the needs of healthcare organizations.,kaggle_financial_news,2020-05-19,2020-05-19
 2020-05-19 00:00:00,"Fred Alger Management Inc Buys Amazon.com Inc, Microsoft Corp, Apple Inc, Sells Abbott ...",massive_raw_partner_headlines,2020-05-19,2020-05-19
-2020-05-20 00:00:00,"Phoenix Holdings Ltd. Buys Teva Pharmaceutical Industries, SPDR S&P 5……, Microsoft ...",massive_raw_partner_headlines,2020-05-20,2020-05-20
-2020-05-20 13:00:00,"Cinedigm Expands US Distribution Via Launch of CONtv, Dove Channel, Comedy Dynamics & Docurama on Amazon's IMDb TV",kaggle_analyst_analyst_ratings_processed.csv,2020-05-20,2020-05-20
-2020-05-20 16:37:00,Why Surface Oncology's Stock Is Surging Higher,kaggle_analyst_analyst_ratings_processed.csv,2020-05-20,2020-05-20
+2020-05-19 11:50:00,"Seaport Global Initiates Coverage On General Dynamics with Buy Rating, Announces Price Target of $188",kaggle_analyst_analyst_ratings_processed.csv,2020-05-19,2020-05-19
+2020-05-19 12:32:00,Verint Highlights Launch Of Compliance Recording For Full Breadth Of Microsoft Teams Collaboration,kaggle_analyst_analyst_ratings_processed.csv,2020-05-19,2020-05-19
 2020-05-20 18:49:00,Mid-Afternoon Market Update: Crude Oil Up 5%; Surface Oncology Shares Spike Higher,kaggle_analyst_analyst_ratings_processed.csv,2020-05-20,2020-05-20
 2020-05-20 20:27:00,"A Challenge To Amazon, As Microsoft And FedEx Enter Multiyear Collaboration",kaggle_analyst_analyst_ratings_processed.csv,2020-05-20,2020-05-20
+2020-05-20 13:00:00,"Cinedigm Expands US Distribution Via Launch of CONtv, Dove Channel, Comedy Dynamics & Docurama on Amazon's IMDb TV",kaggle_analyst_analyst_ratings_processed.csv,2020-05-20,2020-05-20
+2020-05-20 00:00:00,"Phoenix Holdings Ltd. Buys Teva Pharmaceutical Industries, SPDR S&P 5……, Microsoft ...",massive_raw_partner_headlines,2020-05-20,2020-05-20
+2020-05-20 16:37:00,Why Surface Oncology's Stock Is Surging Higher,kaggle_analyst_analyst_ratings_processed.csv,2020-05-20,2020-05-20
 2020-05-21 00:00:00,Castlight Health Teams Up with New York State Department of Health to Launch Statewide ...,massive_raw_partner_headlines,2020-05-21,2020-05-21
 2020-05-21 09:18:00,"RBC Capital Initiates Coverage On General Dynamics with Outperform Rating, Announces Price Target of $157",kaggle_analyst_analyst_ratings_processed.csv,2020-05-21,2020-05-21
 2020-05-21 18:27:00,Castlight Health Teams Up with New York State Department of Health to Launch Statewide COVID-19 Test Site Directory,kaggle_analyst_analyst_ratings_processed.csv,2020-05-21,2020-05-21
-2020-05-22 00:00:00,"Hedge funds concentrated their portfolios even further into growth stocks including Amazon.com Inc  and Microsoft Corp  in the first quarter of 2020 as the COVID-19 pandemic pummeled U.S. markets, Goldman Sachs analysts said in a report.",kaggle_financial_news,2020-05-22,2020-05-22
 2020-05-26 00:00:00,"Verus Capital Partners, Llc Buys Microsoft Corp, Advanced Micro Devices Inc, Starbucks Corp, ...",massive_raw_partner_headlines,2020-05-26,2020-05-26
-2020-05-27 20:09:00,"Workday Reports Separate Partnerships With Salesforce, Microsoft",kaggle_analyst_analyst_ratings_processed.csv,2020-05-27,2020-05-27
-2020-05-27 00:00:00,"Microsoft, Workday Announce Strategic Partnership to Accelerate Planning for Today's World",massive_raw_partner_headlines,2020-05-27,2020-05-27
-2020-05-27 20:10:00,Workday shares are trading higher after the company announced better-than-expected Q1 sales results. The company also announced separate partnerships with Microsoft and Salesforce.,kaggle_analyst_analyst_ratings_processed.csv,2020-05-27,2020-05-27
 2020-05-27 00:00:00,"Thinking about buying stock in Delta Air Lines, Six Flags Entertainment, Citigroup, Microsoft, ...",massive_raw_partner_headlines,2020-05-27,2020-05-27
 2020-05-27 00:00:00,"Global Egg Powder Market —…—… – Industry Dynamics, Segmentation and Competition ...",massive_raw_partner_headlines,2020-05-27,2020-05-27
-2020-05-28 00:00:00,General Dynamics (GD) Dips More Than Broader Markets: What You Should Know,massive_raw_partner_headlines,2020-05-28,2020-05-28
+2020-05-27 00:00:00,"Microsoft, Workday Announce Strategic Partnership to Accelerate Planning for Today's World",massive_raw_partner_headlines,2020-05-27,2020-05-27
+2020-05-27 20:09:00,"Workday Reports Separate Partnerships With Salesforce, Microsoft",kaggle_analyst_analyst_ratings_processed.csv,2020-05-27,2020-05-27
+2020-05-27 20:10:00,Workday shares are trading higher after the company announced better-than-expected Q1 sales results. The company also announced separate partnerships with Microsoft and Salesforce.,kaggle_analyst_analyst_ratings_processed.csv,2020-05-27,2020-05-27
+2020-05-28 12:33:00,Simulations Plus Reports $400K 3-Year Grant By FDA For Development Of Physiologically-Based Phamacokinetics/Pharmacodynamics Approaches To Support Interspecies Translation For Ocular Drug Delivery In GastroPlus,kaggle_analyst_analyst_ratings_processed.csv,2020-05-28,2020-05-28
 2020-05-28 00:00:00,Rugby League Legend Brad Fittler Teams Up with ResMed to Help Australians Sleep Better,massive_raw_partner_headlines,2020-05-28,2020-05-28
 2020-05-28 00:00:00,"Poly Introduces Room Solutions for Microsoft Teams Rooms to Deliver Smart, Simple and ...",massive_raw_partner_headlines,2020-05-28,2020-05-28
-2020-05-28 00:00:00,"HP, Valve, and Microsoft Removing Distance Barriers with Next-Gen Virtual Reality Headset",massive_raw_partner_headlines,2020-05-28,2020-05-28
-2020-05-28 00:00:00,"Tredje AP-fonden Buys Microsoft Corp, Amazon.com Inc, Apple Inc, Sells iShares U.S. ...",massive_raw_partner_headlines,2020-05-28,2020-05-28
-2020-05-28 00:00:00,EPAM Honored as a Recipient of the —…—… Microsoft Health Innovation Award,massive_raw_partner_headlines,2020-05-28,2020-05-28
-2020-05-28 12:33:00,Simulations Plus Reports $400K 3-Year Grant By FDA For Development Of Physiologically-Based Phamacokinetics/Pharmacodynamics Approaches To Support Interspecies Translation For Ocular Drug Delivery In GastroPlus,kaggle_analyst_analyst_ratings_processed.csv,2020-05-28,2020-05-28
 2020-05-28 12:17:00,Workday shares are trading higher after the company announced better-than-expected Q1 sales results. The company also announced separate partnerships with Microsoft and Salesforce.,kaggle_analyst_analyst_ratings_processed.csv,2020-05-28,2020-05-28
+2020-05-28 00:00:00,EPAM Honored as a Recipient of the —…—… Microsoft Health Innovation Award,massive_raw_partner_headlines,2020-05-28,2020-05-28
+2020-05-28 00:00:00,"Tredje AP-fonden Buys Microsoft Corp, Amazon.com Inc, Apple Inc, Sells iShares U.S. ...",massive_raw_partner_headlines,2020-05-28,2020-05-28
+2020-05-28 00:00:00,General Dynamics (GD) Dips More Than Broader Markets: What You Should Know,massive_raw_partner_headlines,2020-05-28,2020-05-28
+2020-05-28 00:00:00,"HP, Valve, and Microsoft Removing Distance Barriers with Next-Gen Virtual Reality Headset",massive_raw_partner_headlines,2020-05-28,2020-05-28
 2020-05-29 00:00:00,Currencies Manifest 'Risk On' Dynamics,massive_raw_partner_headlines,2020-05-29,2020-05-29
 2020-05-31 00:00:00,Undervalued Dividend Growth Stock of the Week: General Dynamics Corporation,massive_raw_partner_headlines,2020-05-31,2020-06-01
 2020-05-31 22:19:00,"Apple Says With Health and Safety of Its Teams in Mind, Decided to Keep Number of Its Stores in the U.S. Closed on Sunday",kaggle_analyst_analyst_ratings_processed.csv,2020-05-31,2020-06-01
@@ -615,23 +573,13 @@ date,headline,source,date_day,trading_date
 2020-06-01 00:00:00,Bluware Signs New Agreement with BP to Support Innovative Deep Learning Workflow in Subsurface ...,massive_raw_partner_headlines,2020-06-01,2020-06-01
 2020-06-03 00:00:00,Lantronix Teams With Tangen Biosciences in the Fight Against COVID-–9,massive_raw_partner_headlines,2020-06-03,2020-06-03
 2020-06-03 00:00:00,General Dynamics Board Declares Dividend,massive_raw_partner_headlines,2020-06-03,2020-06-03
-2020-06-04 14:27:00,"Cramer Gives His Opinion On Microsoft, Roku And More",kaggle_analyst_analyst_ratings_processed.csv,2020-06-04,2020-06-04
-2020-06-04 12:13:00,"Susquehanna Maintains Positive on General Dynamics, Raises Price Target to $184",kaggle_analyst_analyst_ratings_processed.csv,2020-06-04,2020-06-04
 2020-06-04 00:00:00,Spain's CaixaBank Teams with IBM Services to Accelerate Cloud Transformation and Innovation in ...,massive_raw_partner_headlines,2020-06-04,2020-06-04
+2020-06-04 12:13:00,"Susquehanna Maintains Positive on General Dynamics, Raises Price Target to $184",kaggle_analyst_analyst_ratings_processed.csv,2020-06-04,2020-06-04
+2020-06-04 14:27:00,"Cramer Gives His Opinion On Microsoft, Roku And More",kaggle_analyst_analyst_ratings_processed.csv,2020-06-04,2020-06-04
 2020-06-05 07:17:00,Amazon And Slack Deepen Partnership In A Bid To Compete With Microsoft,kaggle_analyst_analyst_ratings_processed.csv,2020-06-05,2020-06-05
 2020-06-09 12:10:00,8x8 Launches Enterprise-Grade Cloud Telephony Solution For Microsoft Teams,kaggle_analyst_analyst_ratings_processed.csv,2020-06-09,2020-06-09
 2020-06-09 12:27:00,Morgan Stanley US And China Autos And Shared Mobility Teams To Discuss Tesla On Webcast From 9:00-11:00 a.m. ET,kaggle_analyst_analyst_ratings_processed.csv,2020-06-09,2020-06-09
 2020-06-10 11:02:00,Lantronix Teams With Misty Robotics To Create Open-Platform Robot,kaggle_analyst_analyst_ratings_processed.csv,2020-06-10,2020-06-10
 2020-06-10 18:30:00,A Look Into General Dynamics's Price Over Earnings,kaggle_analyst_analyst_ratings_processed.csv,2020-06-10,2020-06-10
-2020-06-11 00:00:00,"Microsoft Corp  said on Thursday it would await federal regulation before selling facial recognition technology to police, making it the latest big firm to back away from the business following protests against law enforcement brutality and bias.",kaggle_financial_news,2020-06-11,2020-06-11
 2020-06-11 11:32:00,"UBS Maintains Neutral on General Dynamics, Lowers Price Target to $171",kaggle_analyst_analyst_ratings_processed.csv,2020-06-11,2020-06-11
-2020-06-23 00:00:00,"Microsoft Corp  on Tuesday set a five-year diversity goal to address racial inequality at its offices, following protests over police brutality against African Americans in the United States.",kaggle_financial_news,2020-06-23,2020-06-23
-2020-06-26 00:00:00,Microsoft Corp  said on Friday it would close its retail stores and take a related pretax asset impairment charge of $450 million in the current quarter.,kaggle_financial_news,2020-06-26,2020-06-26
-2020-07-10 00:00:00,Microsoft Corp's  LinkedIn was sued by a New York-based iPhone user on Friday for allegedly reading and diverting users' sensitive content from Apple Inc's  Universal Clipboard application.,kaggle_financial_news,2020-07-10,2020-07-10
-2020-07-10 00:00:00,"Lonza Group AG is in the “last step” of discussions with U.S. regulators for approval to claim that its formulation is effective in killing the novel Coronavirus on surfaces, an executive at the pharmaceutical and chemical giant told Reuters.",kaggle_financial_news,2020-07-10,2020-07-10
-2020-07-13 00:00:00,"The S&P 500 and Nasdaq ended lower on Monday, pulled down by Amazon, Microsoft and other recent big-name leaders of Wall Street's recent rally.",kaggle_financial_news,2020-07-13,2020-07-13
-2020-07-15 00:00:00,"Autopilot, ProPilot, CoPilot: Automakers have many names for new systems that allow for hands-free driving, but no safety or performance standards to follow as they roll out the most significant changes to vehicle technology in a generation.",kaggle_financial_news,2020-07-15,2020-07-15
-2020-07-16 00:00:00,Microsoft Corp said on Thursday it had trimmed its workforce across geographies and teams as it entered a new fiscal year from July 1.,kaggle_financial_news,2020-07-16,2020-07-16
-2020-07-16 00:00:00,"U.S. Attorney General William Barr took aim at Hollywood companies, including Walt Disney Co  on Thursday as well as large technology firms like Apple, Alphabet's Google and Microsoft Corp over company actions with China.",kaggle_financial_news,2020-07-16,2020-07-16
-2020-07-16 00:00:00,"The S&P 500 dropped on Thursday, pulled lower by Microsoft Corp  and Apple Inc , as elevated levels of unemployment claims heightened concerns about the economic toll from rising coronavirus cases.",kaggle_financial_news,2020-07-16,2020-07-16
 2020-11-10 00:00:00,"Stocks making the biggest moves premarket: Beyond Meat, Lowe's, Microsoft, Tesla & more",hf_sp500,2020-11-10,2020-11-10
